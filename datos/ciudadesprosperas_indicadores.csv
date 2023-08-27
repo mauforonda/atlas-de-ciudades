@@ -1,0 +1,1596 @@
+indicador,area,area_tipo,area_id,valor
+Empleo informal,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Empleo informal,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Empleo informal,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Empleo informal,Total 20 ciudades,Ciudad,4,16.6
+Empleo informal,Sucre,Ciudad,5,4.8
+Empleo informal,La Paz,Ciudad,6,20.0
+Empleo informal,El Alto,Ciudad,7,0.0
+Empleo informal,Viacha,Ciudad,8,0.0
+Empleo informal,Cochabamba,Ciudad,9,15.6
+Empleo informal,Quillacollo,Ciudad,10,10.2
+Empleo informal,Tiquipaya,Ciudad,11,7.4
+Empleo informal,Colcapirhua,Ciudad,12,26.3
+Empleo informal,Sacaba,Ciudad,13,5.8
+Empleo informal,Oruro,Ciudad,14,6.3
+Empleo informal,Potosí,Ciudad,15,0.7
+Empleo informal,Tarija,Ciudad,16,23.5
+Empleo informal,Yacuiba,Ciudad,17,14.6
+Empleo informal,Santa Cruz de La Sierra,Ciudad,18,32.8
+Empleo informal,La Guardia,Ciudad,19,25.7
+Empleo informal,Warnes,Ciudad,20,39.9
+Empleo informal,Montero,Ciudad,21,22.6
+Empleo informal,Trinidad,Ciudad,22,20.3
+Empleo informal,Riberalta,Ciudad,23,11.7
+Empleo informal,Cobija,Ciudad,24,16.2
+Empleo informal,Achocalla,Ciudad,25,0.0
+Empleo informal,Sipe Sipe,Ciudad,26,0.0
+Empleo informal,Vinto,Ciudad,27,4.9
+Empleo informal,Cotoca,Ciudad,28,25.2
+Empleo informal,El Torno,Ciudad,29,5.6
+Tasa de desempleo,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Tasa de desempleo,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Tasa de desempleo,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Tasa de desempleo,Total 20 ciudades,Ciudad,4,16.6
+Tasa de desempleo,Sucre,Ciudad,5,4.8
+Tasa de desempleo,La Paz,Ciudad,6,20.0
+Tasa de desempleo,El Alto,Ciudad,7,0.0
+Tasa de desempleo,Viacha,Ciudad,8,0.0
+Tasa de desempleo,Cochabamba,Ciudad,9,15.6
+Tasa de desempleo,Quillacollo,Ciudad,10,10.2
+Tasa de desempleo,Tiquipaya,Ciudad,11,7.4
+Tasa de desempleo,Colcapirhua,Ciudad,12,26.3
+Tasa de desempleo,Sacaba,Ciudad,13,5.8
+Tasa de desempleo,Oruro,Ciudad,14,6.3
+Tasa de desempleo,Potosí,Ciudad,15,0.7
+Tasa de desempleo,Tarija,Ciudad,16,23.5
+Tasa de desempleo,Yacuiba,Ciudad,17,14.6
+Tasa de desempleo,Santa Cruz de La Sierra,Ciudad,18,32.8
+Tasa de desempleo,La Guardia,Ciudad,19,25.7
+Tasa de desempleo,Warnes,Ciudad,20,39.9
+Tasa de desempleo,Montero,Ciudad,21,22.6
+Tasa de desempleo,Trinidad,Ciudad,22,20.3
+Tasa de desempleo,Riberalta,Ciudad,23,11.7
+Tasa de desempleo,Cobija,Ciudad,24,16.2
+Tasa de desempleo,Achocalla,Ciudad,25,0.0
+Tasa de desempleo,Sipe Sipe,Ciudad,26,0.0
+Tasa de desempleo,Vinto,Ciudad,27,4.9
+Tasa de desempleo,Cotoca,Ciudad,28,25.2
+Tasa de desempleo,El Torno,Ciudad,29,5.6
+Relación Empleo / Población,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Relación Empleo / Población,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Relación Empleo / Población,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Relación Empleo / Población,Total 20 ciudades,Ciudad,4,16.6
+Relación Empleo / Población,Sucre,Ciudad,5,4.8
+Relación Empleo / Población,La Paz,Ciudad,6,20.0
+Relación Empleo / Población,El Alto,Ciudad,7,0.0
+Relación Empleo / Población,Viacha,Ciudad,8,0.0
+Relación Empleo / Población,Cochabamba,Ciudad,9,15.6
+Relación Empleo / Población,Quillacollo,Ciudad,10,10.2
+Relación Empleo / Población,Tiquipaya,Ciudad,11,7.4
+Relación Empleo / Población,Colcapirhua,Ciudad,12,26.3
+Relación Empleo / Población,Sacaba,Ciudad,13,5.8
+Relación Empleo / Población,Oruro,Ciudad,14,6.3
+Relación Empleo / Población,Potosí,Ciudad,15,0.7
+Relación Empleo / Población,Tarija,Ciudad,16,23.5
+Relación Empleo / Población,Yacuiba,Ciudad,17,14.6
+Relación Empleo / Población,Santa Cruz de La Sierra,Ciudad,18,32.8
+Relación Empleo / Población,La Guardia,Ciudad,19,25.7
+Relación Empleo / Población,Warnes,Ciudad,20,39.9
+Relación Empleo / Población,Montero,Ciudad,21,22.6
+Relación Empleo / Población,Trinidad,Ciudad,22,20.3
+Relación Empleo / Población,Riberalta,Ciudad,23,11.7
+Relación Empleo / Población,Cobija,Ciudad,24,16.2
+Relación Empleo / Población,Achocalla,Ciudad,25,0.0
+Relación Empleo / Población,Sipe Sipe,Ciudad,26,0.0
+Relación Empleo / Población,Vinto,Ciudad,27,4.9
+Relación Empleo / Población,Cotoca,Ciudad,28,25.2
+Relación Empleo / Población,El Torno,Ciudad,29,5.6
+Ingreso medio del hogar,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Ingreso medio del hogar,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Ingreso medio del hogar,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Ingreso medio del hogar,Total 20 ciudades,Ciudad,4,16.6
+Ingreso medio del hogar,Sucre,Ciudad,5,4.8
+Ingreso medio del hogar,La Paz,Ciudad,6,20.0
+Ingreso medio del hogar,El Alto,Ciudad,7,0.0
+Ingreso medio del hogar,Viacha,Ciudad,8,0.0
+Ingreso medio del hogar,Cochabamba,Ciudad,9,15.6
+Ingreso medio del hogar,Quillacollo,Ciudad,10,10.2
+Ingreso medio del hogar,Tiquipaya,Ciudad,11,7.4
+Ingreso medio del hogar,Colcapirhua,Ciudad,12,26.3
+Ingreso medio del hogar,Sacaba,Ciudad,13,5.8
+Ingreso medio del hogar,Oruro,Ciudad,14,6.3
+Ingreso medio del hogar,Potosí,Ciudad,15,0.7
+Ingreso medio del hogar,Tarija,Ciudad,16,23.5
+Ingreso medio del hogar,Yacuiba,Ciudad,17,14.6
+Ingreso medio del hogar,Santa Cruz de La Sierra,Ciudad,18,32.8
+Ingreso medio del hogar,La Guardia,Ciudad,19,25.7
+Ingreso medio del hogar,Warnes,Ciudad,20,39.9
+Ingreso medio del hogar,Montero,Ciudad,21,22.6
+Ingreso medio del hogar,Trinidad,Ciudad,22,20.3
+Ingreso medio del hogar,Riberalta,Ciudad,23,11.7
+Ingreso medio del hogar,Cobija,Ciudad,24,16.2
+Ingreso medio del hogar,Achocalla,Ciudad,25,0.0
+Ingreso medio del hogar,Sipe Sipe,Ciudad,26,0.0
+Ingreso medio del hogar,Vinto,Ciudad,27,4.9
+Ingreso medio del hogar,Cotoca,Ciudad,28,25.2
+Ingreso medio del hogar,El Torno,Ciudad,29,5.6
+Producto per cápita de la ciudad,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Producto per cápita de la ciudad,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Producto per cápita de la ciudad,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Producto per cápita de la ciudad,Total 20 ciudades,Ciudad,4,16.6
+Producto per cápita de la ciudad,Sucre,Ciudad,5,4.8
+Producto per cápita de la ciudad,La Paz,Ciudad,6,20.0
+Producto per cápita de la ciudad,El Alto,Ciudad,7,0.0
+Producto per cápita de la ciudad,Viacha,Ciudad,8,0.0
+Producto per cápita de la ciudad,Cochabamba,Ciudad,9,15.6
+Producto per cápita de la ciudad,Quillacollo,Ciudad,10,10.2
+Producto per cápita de la ciudad,Tiquipaya,Ciudad,11,7.4
+Producto per cápita de la ciudad,Colcapirhua,Ciudad,12,26.3
+Producto per cápita de la ciudad,Sacaba,Ciudad,13,5.8
+Producto per cápita de la ciudad,Oruro,Ciudad,14,6.3
+Producto per cápita de la ciudad,Potosí,Ciudad,15,0.7
+Producto per cápita de la ciudad,Tarija,Ciudad,16,23.5
+Producto per cápita de la ciudad,Yacuiba,Ciudad,17,14.6
+Producto per cápita de la ciudad,Santa Cruz de La Sierra,Ciudad,18,32.8
+Producto per cápita de la ciudad,La Guardia,Ciudad,19,25.7
+Producto per cápita de la ciudad,Warnes,Ciudad,20,39.9
+Producto per cápita de la ciudad,Montero,Ciudad,21,22.6
+Producto per cápita de la ciudad,Trinidad,Ciudad,22,20.3
+Producto per cápita de la ciudad,Riberalta,Ciudad,23,11.7
+Producto per cápita de la ciudad,Cobija,Ciudad,24,16.2
+Producto per cápita de la ciudad,Achocalla,Ciudad,25,0.0
+Producto per cápita de la ciudad,Sipe Sipe,Ciudad,26,0.0
+Producto per cápita de la ciudad,Vinto,Ciudad,27,4.9
+Producto per cápita de la ciudad,Cotoca,Ciudad,28,25.2
+Producto per cápita de la ciudad,El Torno,Ciudad,29,5.6
+Relación de dependencia -de la vejez-,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Relación de dependencia -de la vejez-,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Relación de dependencia -de la vejez-,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Relación de dependencia -de la vejez-,Total 20 ciudades,Ciudad,4,16.6
+Relación de dependencia -de la vejez-,Sucre,Ciudad,5,4.8
+Relación de dependencia -de la vejez-,La Paz,Ciudad,6,20.0
+Relación de dependencia -de la vejez-,El Alto,Ciudad,7,0.0
+Relación de dependencia -de la vejez-,Viacha,Ciudad,8,0.0
+Relación de dependencia -de la vejez-,Cochabamba,Ciudad,9,15.6
+Relación de dependencia -de la vejez-,Quillacollo,Ciudad,10,10.2
+Relación de dependencia -de la vejez-,Tiquipaya,Ciudad,11,7.4
+Relación de dependencia -de la vejez-,Colcapirhua,Ciudad,12,26.3
+Relación de dependencia -de la vejez-,Sacaba,Ciudad,13,5.8
+Relación de dependencia -de la vejez-,Oruro,Ciudad,14,6.3
+Relación de dependencia -de la vejez-,Potosí,Ciudad,15,0.7
+Relación de dependencia -de la vejez-,Tarija,Ciudad,16,23.5
+Relación de dependencia -de la vejez-,Yacuiba,Ciudad,17,14.6
+Relación de dependencia -de la vejez-,Santa Cruz de La Sierra,Ciudad,18,32.8
+Relación de dependencia -de la vejez-,La Guardia,Ciudad,19,25.7
+Relación de dependencia -de la vejez-,Warnes,Ciudad,20,39.9
+Relación de dependencia -de la vejez-,Montero,Ciudad,21,22.6
+Relación de dependencia -de la vejez-,Trinidad,Ciudad,22,20.3
+Relación de dependencia -de la vejez-,Riberalta,Ciudad,23,11.7
+Relación de dependencia -de la vejez-,Cobija,Ciudad,24,16.2
+Relación de dependencia -de la vejez-,Achocalla,Ciudad,25,0.0
+Relación de dependencia -de la vejez-,Sipe Sipe,Ciudad,26,0.0
+Relación de dependencia -de la vejez-,Vinto,Ciudad,27,4.9
+Relación de dependencia -de la vejez-,Cotoca,Ciudad,28,25.2
+Relación de dependencia -de la vejez-,El Torno,Ciudad,29,5.6
+Densidad económica,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Densidad económica,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Densidad económica,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Densidad económica,Total 20 ciudades,Ciudad,4,16.6
+Densidad económica,Sucre,Ciudad,5,4.8
+Densidad económica,La Paz,Ciudad,6,20.0
+Densidad económica,El Alto,Ciudad,7,0.0
+Densidad económica,Viacha,Ciudad,8,0.0
+Densidad económica,Cochabamba,Ciudad,9,15.6
+Densidad económica,Quillacollo,Ciudad,10,10.2
+Densidad económica,Tiquipaya,Ciudad,11,7.4
+Densidad económica,Colcapirhua,Ciudad,12,26.3
+Densidad económica,Sacaba,Ciudad,13,5.8
+Densidad económica,Oruro,Ciudad,14,6.3
+Densidad económica,Potosí,Ciudad,15,0.7
+Densidad económica,Tarija,Ciudad,16,23.5
+Densidad económica,Yacuiba,Ciudad,17,14.6
+Densidad económica,Santa Cruz de La Sierra,Ciudad,18,32.8
+Densidad económica,La Guardia,Ciudad,19,25.7
+Densidad económica,Warnes,Ciudad,20,39.9
+Densidad económica,Montero,Ciudad,21,22.6
+Densidad económica,Trinidad,Ciudad,22,20.3
+Densidad económica,Riberalta,Ciudad,23,11.7
+Densidad económica,Cobija,Ciudad,24,16.2
+Densidad económica,Achocalla,Ciudad,25,0.0
+Densidad económica,Sipe Sipe,Ciudad,26,0.0
+Densidad económica,Vinto,Ciudad,27,4.9
+Densidad económica,Cotoca,Ciudad,28,25.2
+Densidad económica,El Torno,Ciudad,29,5.6
+Densidad de médicos,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Densidad de médicos,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Densidad de médicos,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Densidad de médicos,Total 20 ciudades,Ciudad,4,16.6
+Densidad de médicos,Sucre,Ciudad,5,4.8
+Densidad de médicos,La Paz,Ciudad,6,20.0
+Densidad de médicos,El Alto,Ciudad,7,0.0
+Densidad de médicos,Viacha,Ciudad,8,0.0
+Densidad de médicos,Cochabamba,Ciudad,9,15.6
+Densidad de médicos,Quillacollo,Ciudad,10,10.2
+Densidad de médicos,Tiquipaya,Ciudad,11,7.4
+Densidad de médicos,Colcapirhua,Ciudad,12,26.3
+Densidad de médicos,Sacaba,Ciudad,13,5.8
+Densidad de médicos,Oruro,Ciudad,14,6.3
+Densidad de médicos,Potosí,Ciudad,15,0.7
+Densidad de médicos,Tarija,Ciudad,16,23.5
+Densidad de médicos,Yacuiba,Ciudad,17,14.6
+Densidad de médicos,Santa Cruz de La Sierra,Ciudad,18,32.8
+Densidad de médicos,La Guardia,Ciudad,19,25.7
+Densidad de médicos,Warnes,Ciudad,20,39.9
+Densidad de médicos,Montero,Ciudad,21,22.6
+Densidad de médicos,Trinidad,Ciudad,22,20.3
+Densidad de médicos,Riberalta,Ciudad,23,11.7
+Densidad de médicos,Cobija,Ciudad,24,16.2
+Densidad de médicos,Achocalla,Ciudad,25,0.0
+Densidad de médicos,Sipe Sipe,Ciudad,26,0.0
+Densidad de médicos,Vinto,Ciudad,27,4.9
+Densidad de médicos,Cotoca,Ciudad,28,25.2
+Densidad de médicos,El Torno,Ciudad,29,5.6
+Número de bibliotecas públicas,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Número de bibliotecas públicas,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Número de bibliotecas públicas,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Número de bibliotecas públicas,Total 20 ciudades,Ciudad,4,16.6
+Número de bibliotecas públicas,Sucre,Ciudad,5,4.8
+Número de bibliotecas públicas,La Paz,Ciudad,6,20.0
+Número de bibliotecas públicas,El Alto,Ciudad,7,0.0
+Número de bibliotecas públicas,Viacha,Ciudad,8,0.0
+Número de bibliotecas públicas,Cochabamba,Ciudad,9,15.6
+Número de bibliotecas públicas,Quillacollo,Ciudad,10,10.2
+Número de bibliotecas públicas,Tiquipaya,Ciudad,11,7.4
+Número de bibliotecas públicas,Colcapirhua,Ciudad,12,26.3
+Número de bibliotecas públicas,Sacaba,Ciudad,13,5.8
+Número de bibliotecas públicas,Oruro,Ciudad,14,6.3
+Número de bibliotecas públicas,Potosí,Ciudad,15,0.7
+Número de bibliotecas públicas,Tarija,Ciudad,16,23.5
+Número de bibliotecas públicas,Yacuiba,Ciudad,17,14.6
+Número de bibliotecas públicas,Santa Cruz de La Sierra,Ciudad,18,32.8
+Número de bibliotecas públicas,La Guardia,Ciudad,19,25.7
+Número de bibliotecas públicas,Warnes,Ciudad,20,39.9
+Número de bibliotecas públicas,Montero,Ciudad,21,22.6
+Número de bibliotecas públicas,Trinidad,Ciudad,22,20.3
+Número de bibliotecas públicas,Riberalta,Ciudad,23,11.7
+Número de bibliotecas públicas,Cobija,Ciudad,24,16.2
+Número de bibliotecas públicas,Achocalla,Ciudad,25,0.0
+Número de bibliotecas públicas,Sipe Sipe,Ciudad,26,0.0
+Número de bibliotecas públicas,Vinto,Ciudad,27,4.9
+Número de bibliotecas públicas,Cotoca,Ciudad,28,25.2
+Número de bibliotecas públicas,El Torno,Ciudad,29,5.6
+Acceso a Internet,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Acceso a Internet,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Acceso a Internet,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Acceso a Internet,Total 20 ciudades,Ciudad,4,16.6
+Acceso a Internet,Sucre,Ciudad,5,4.8
+Acceso a Internet,La Paz,Ciudad,6,20.0
+Acceso a Internet,El Alto,Ciudad,7,0.0
+Acceso a Internet,Viacha,Ciudad,8,0.0
+Acceso a Internet,Cochabamba,Ciudad,9,15.6
+Acceso a Internet,Quillacollo,Ciudad,10,10.2
+Acceso a Internet,Tiquipaya,Ciudad,11,7.4
+Acceso a Internet,Colcapirhua,Ciudad,12,26.3
+Acceso a Internet,Sacaba,Ciudad,13,5.8
+Acceso a Internet,Oruro,Ciudad,14,6.3
+Acceso a Internet,Potosí,Ciudad,15,0.7
+Acceso a Internet,Tarija,Ciudad,16,23.5
+Acceso a Internet,Yacuiba,Ciudad,17,14.6
+Acceso a Internet,Santa Cruz de La Sierra,Ciudad,18,32.8
+Acceso a Internet,La Guardia,Ciudad,19,25.7
+Acceso a Internet,Warnes,Ciudad,20,39.9
+Acceso a Internet,Montero,Ciudad,21,22.6
+Acceso a Internet,Trinidad,Ciudad,22,20.3
+Acceso a Internet,Riberalta,Ciudad,23,11.7
+Acceso a Internet,Cobija,Ciudad,24,16.2
+Acceso a Internet,Achocalla,Ciudad,25,0.0
+Acceso a Internet,Sipe Sipe,Ciudad,26,0.0
+Acceso a Internet,Vinto,Ciudad,27,4.9
+Acceso a Internet,Cotoca,Ciudad,28,25.2
+Acceso a Internet,El Torno,Ciudad,29,5.6
+Acceso a la computadora en casa,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Acceso a la computadora en casa,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Acceso a la computadora en casa,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Acceso a la computadora en casa,Total 20 ciudades,Ciudad,4,16.6
+Acceso a la computadora en casa,Sucre,Ciudad,5,4.8
+Acceso a la computadora en casa,La Paz,Ciudad,6,20.0
+Acceso a la computadora en casa,El Alto,Ciudad,7,0.0
+Acceso a la computadora en casa,Viacha,Ciudad,8,0.0
+Acceso a la computadora en casa,Cochabamba,Ciudad,9,15.6
+Acceso a la computadora en casa,Quillacollo,Ciudad,10,10.2
+Acceso a la computadora en casa,Tiquipaya,Ciudad,11,7.4
+Acceso a la computadora en casa,Colcapirhua,Ciudad,12,26.3
+Acceso a la computadora en casa,Sacaba,Ciudad,13,5.8
+Acceso a la computadora en casa,Oruro,Ciudad,14,6.3
+Acceso a la computadora en casa,Potosí,Ciudad,15,0.7
+Acceso a la computadora en casa,Tarija,Ciudad,16,23.5
+Acceso a la computadora en casa,Yacuiba,Ciudad,17,14.6
+Acceso a la computadora en casa,Santa Cruz de La Sierra,Ciudad,18,32.8
+Acceso a la computadora en casa,La Guardia,Ciudad,19,25.7
+Acceso a la computadora en casa,Warnes,Ciudad,20,39.9
+Acceso a la computadora en casa,Montero,Ciudad,21,22.6
+Acceso a la computadora en casa,Trinidad,Ciudad,22,20.3
+Acceso a la computadora en casa,Riberalta,Ciudad,23,11.7
+Acceso a la computadora en casa,Cobija,Ciudad,24,16.2
+Acceso a la computadora en casa,Achocalla,Ciudad,25,0.0
+Acceso a la computadora en casa,Sipe Sipe,Ciudad,26,0.0
+Acceso a la computadora en casa,Vinto,Ciudad,27,4.9
+Acceso a la computadora en casa,Cotoca,Ciudad,28,25.2
+Acceso a la computadora en casa,El Torno,Ciudad,29,5.6
+Tiempo promedio de viaje diario,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Tiempo promedio de viaje diario,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Tiempo promedio de viaje diario,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Tiempo promedio de viaje diario,Total 20 ciudades,Ciudad,4,16.6
+Tiempo promedio de viaje diario,Sucre,Ciudad,5,4.8
+Tiempo promedio de viaje diario,La Paz,Ciudad,6,20.0
+Tiempo promedio de viaje diario,El Alto,Ciudad,7,0.0
+Tiempo promedio de viaje diario,Viacha,Ciudad,8,0.0
+Tiempo promedio de viaje diario,Cochabamba,Ciudad,9,15.6
+Tiempo promedio de viaje diario,Quillacollo,Ciudad,10,10.2
+Tiempo promedio de viaje diario,Tiquipaya,Ciudad,11,7.4
+Tiempo promedio de viaje diario,Colcapirhua,Ciudad,12,26.3
+Tiempo promedio de viaje diario,Sacaba,Ciudad,13,5.8
+Tiempo promedio de viaje diario,Oruro,Ciudad,14,6.3
+Tiempo promedio de viaje diario,Potosí,Ciudad,15,0.7
+Tiempo promedio de viaje diario,Tarija,Ciudad,16,23.5
+Tiempo promedio de viaje diario,Yacuiba,Ciudad,17,14.6
+Tiempo promedio de viaje diario,Santa Cruz de La Sierra,Ciudad,18,32.8
+Tiempo promedio de viaje diario,La Guardia,Ciudad,19,25.7
+Tiempo promedio de viaje diario,Warnes,Ciudad,20,39.9
+Tiempo promedio de viaje diario,Montero,Ciudad,21,22.6
+Tiempo promedio de viaje diario,Trinidad,Ciudad,22,20.3
+Tiempo promedio de viaje diario,Riberalta,Ciudad,23,11.7
+Tiempo promedio de viaje diario,Cobija,Ciudad,24,16.2
+Tiempo promedio de viaje diario,Achocalla,Ciudad,25,0.0
+Tiempo promedio de viaje diario,Sipe Sipe,Ciudad,26,0.0
+Tiempo promedio de viaje diario,Vinto,Ciudad,27,4.9
+Tiempo promedio de viaje diario,Cotoca,Ciudad,28,25.2
+Tiempo promedio de viaje diario,El Torno,Ciudad,29,5.6
+Longitud de la red de transporte masivo,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Longitud de la red de transporte masivo,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Longitud de la red de transporte masivo,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Longitud de la red de transporte masivo,Total 20 ciudades,Ciudad,4,16.6
+Longitud de la red de transporte masivo,Sucre,Ciudad,5,4.8
+Longitud de la red de transporte masivo,La Paz,Ciudad,6,20.0
+Longitud de la red de transporte masivo,El Alto,Ciudad,7,0.0
+Longitud de la red de transporte masivo,Viacha,Ciudad,8,0.0
+Longitud de la red de transporte masivo,Cochabamba,Ciudad,9,15.6
+Longitud de la red de transporte masivo,Quillacollo,Ciudad,10,10.2
+Longitud de la red de transporte masivo,Tiquipaya,Ciudad,11,7.4
+Longitud de la red de transporte masivo,Colcapirhua,Ciudad,12,26.3
+Longitud de la red de transporte masivo,Sacaba,Ciudad,13,5.8
+Longitud de la red de transporte masivo,Oruro,Ciudad,14,6.3
+Longitud de la red de transporte masivo,Potosí,Ciudad,15,0.7
+Longitud de la red de transporte masivo,Tarija,Ciudad,16,23.5
+Longitud de la red de transporte masivo,Yacuiba,Ciudad,17,14.6
+Longitud de la red de transporte masivo,Santa Cruz de La Sierra,Ciudad,18,32.8
+Longitud de la red de transporte masivo,La Guardia,Ciudad,19,25.7
+Longitud de la red de transporte masivo,Warnes,Ciudad,20,39.9
+Longitud de la red de transporte masivo,Montero,Ciudad,21,22.6
+Longitud de la red de transporte masivo,Trinidad,Ciudad,22,20.3
+Longitud de la red de transporte masivo,Riberalta,Ciudad,23,11.7
+Longitud de la red de transporte masivo,Cobija,Ciudad,24,16.2
+Longitud de la red de transporte masivo,Achocalla,Ciudad,25,0.0
+Longitud de la red de transporte masivo,Sipe Sipe,Ciudad,26,0.0
+Longitud de la red de transporte masivo,Vinto,Ciudad,27,4.9
+Longitud de la red de transporte masivo,Cotoca,Ciudad,28,25.2
+Longitud de la red de transporte masivo,El Torno,Ciudad,29,5.6
+Fatalidades de tráfico,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Fatalidades de tráfico,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Fatalidades de tráfico,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Fatalidades de tráfico,Total 20 ciudades,Ciudad,4,16.6
+Fatalidades de tráfico,Sucre,Ciudad,5,4.8
+Fatalidades de tráfico,La Paz,Ciudad,6,20.0
+Fatalidades de tráfico,El Alto,Ciudad,7,0.0
+Fatalidades de tráfico,Viacha,Ciudad,8,0.0
+Fatalidades de tráfico,Cochabamba,Ciudad,9,15.6
+Fatalidades de tráfico,Quillacollo,Ciudad,10,10.2
+Fatalidades de tráfico,Tiquipaya,Ciudad,11,7.4
+Fatalidades de tráfico,Colcapirhua,Ciudad,12,26.3
+Fatalidades de tráfico,Sacaba,Ciudad,13,5.8
+Fatalidades de tráfico,Oruro,Ciudad,14,6.3
+Fatalidades de tráfico,Potosí,Ciudad,15,0.7
+Fatalidades de tráfico,Tarija,Ciudad,16,23.5
+Fatalidades de tráfico,Yacuiba,Ciudad,17,14.6
+Fatalidades de tráfico,Santa Cruz de La Sierra,Ciudad,18,32.8
+Fatalidades de tráfico,La Guardia,Ciudad,19,25.7
+Fatalidades de tráfico,Warnes,Ciudad,20,39.9
+Fatalidades de tráfico,Montero,Ciudad,21,22.6
+Fatalidades de tráfico,Trinidad,Ciudad,22,20.3
+Fatalidades de tráfico,Riberalta,Ciudad,23,11.7
+Fatalidades de tráfico,Cobija,Ciudad,24,16.2
+Fatalidades de tráfico,Achocalla,Ciudad,25,0.0
+Fatalidades de tráfico,Sipe Sipe,Ciudad,26,0.0
+Fatalidades de tráfico,Vinto,Ciudad,27,4.9
+Fatalidades de tráfico,Cotoca,Ciudad,28,25.2
+Fatalidades de tráfico,El Torno,Ciudad,29,5.6
+Asequibilidad del transporte,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Asequibilidad del transporte,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Asequibilidad del transporte,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Asequibilidad del transporte,Total 20 ciudades,Ciudad,4,16.6
+Asequibilidad del transporte,Sucre,Ciudad,5,4.8
+Asequibilidad del transporte,La Paz,Ciudad,6,20.0
+Asequibilidad del transporte,El Alto,Ciudad,7,0.0
+Asequibilidad del transporte,Viacha,Ciudad,8,0.0
+Asequibilidad del transporte,Cochabamba,Ciudad,9,15.6
+Asequibilidad del transporte,Quillacollo,Ciudad,10,10.2
+Asequibilidad del transporte,Tiquipaya,Ciudad,11,7.4
+Asequibilidad del transporte,Colcapirhua,Ciudad,12,26.3
+Asequibilidad del transporte,Sacaba,Ciudad,13,5.8
+Asequibilidad del transporte,Oruro,Ciudad,14,6.3
+Asequibilidad del transporte,Potosí,Ciudad,15,0.7
+Asequibilidad del transporte,Tarija,Ciudad,16,23.5
+Asequibilidad del transporte,Yacuiba,Ciudad,17,14.6
+Asequibilidad del transporte,Santa Cruz de La Sierra,Ciudad,18,32.8
+Asequibilidad del transporte,La Guardia,Ciudad,19,25.7
+Asequibilidad del transporte,Warnes,Ciudad,20,39.9
+Asequibilidad del transporte,Montero,Ciudad,21,22.6
+Asequibilidad del transporte,Trinidad,Ciudad,22,20.3
+Asequibilidad del transporte,Riberalta,Ciudad,23,11.7
+Asequibilidad del transporte,Cobija,Ciudad,24,16.2
+Asequibilidad del transporte,Achocalla,Ciudad,25,0.0
+Asequibilidad del transporte,Sipe Sipe,Ciudad,26,0.0
+Asequibilidad del transporte,Vinto,Ciudad,27,4.9
+Asequibilidad del transporte,Cotoca,Ciudad,28,25.2
+Asequibilidad del transporte,El Torno,Ciudad,29,5.6
+Densidad de intersección de calles,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Densidad de intersección de calles,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Densidad de intersección de calles,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Densidad de intersección de calles,Total 20 ciudades,Ciudad,4,16.6
+Densidad de intersección de calles,Sucre,Ciudad,5,4.8
+Densidad de intersección de calles,La Paz,Ciudad,6,20.0
+Densidad de intersección de calles,El Alto,Ciudad,7,0.0
+Densidad de intersección de calles,Viacha,Ciudad,8,0.0
+Densidad de intersección de calles,Cochabamba,Ciudad,9,15.6
+Densidad de intersección de calles,Quillacollo,Ciudad,10,10.2
+Densidad de intersección de calles,Tiquipaya,Ciudad,11,7.4
+Densidad de intersección de calles,Colcapirhua,Ciudad,12,26.3
+Densidad de intersección de calles,Sacaba,Ciudad,13,5.8
+Densidad de intersección de calles,Oruro,Ciudad,14,6.3
+Densidad de intersección de calles,Potosí,Ciudad,15,0.7
+Densidad de intersección de calles,Tarija,Ciudad,16,23.5
+Densidad de intersección de calles,Yacuiba,Ciudad,17,14.6
+Densidad de intersección de calles,Santa Cruz de La Sierra,Ciudad,18,32.8
+Densidad de intersección de calles,La Guardia,Ciudad,19,25.7
+Densidad de intersección de calles,Warnes,Ciudad,20,39.9
+Densidad de intersección de calles,Montero,Ciudad,21,22.6
+Densidad de intersección de calles,Trinidad,Ciudad,22,20.3
+Densidad de intersección de calles,Riberalta,Ciudad,23,11.7
+Densidad de intersección de calles,Cobija,Ciudad,24,16.2
+Densidad de intersección de calles,Achocalla,Ciudad,25,0.0
+Densidad de intersección de calles,Sipe Sipe,Ciudad,26,0.0
+Densidad de intersección de calles,Vinto,Ciudad,27,4.9
+Densidad de intersección de calles,Cotoca,Ciudad,28,25.2
+Densidad de intersección de calles,El Torno,Ciudad,29,5.6
+Densidad de calles,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Densidad de calles,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Densidad de calles,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Densidad de calles,Total 20 ciudades,Ciudad,4,16.6
+Densidad de calles,Sucre,Ciudad,5,4.8
+Densidad de calles,La Paz,Ciudad,6,20.0
+Densidad de calles,El Alto,Ciudad,7,0.0
+Densidad de calles,Viacha,Ciudad,8,0.0
+Densidad de calles,Cochabamba,Ciudad,9,15.6
+Densidad de calles,Quillacollo,Ciudad,10,10.2
+Densidad de calles,Tiquipaya,Ciudad,11,7.4
+Densidad de calles,Colcapirhua,Ciudad,12,26.3
+Densidad de calles,Sacaba,Ciudad,13,5.8
+Densidad de calles,Oruro,Ciudad,14,6.3
+Densidad de calles,Potosí,Ciudad,15,0.7
+Densidad de calles,Tarija,Ciudad,16,23.5
+Densidad de calles,Yacuiba,Ciudad,17,14.6
+Densidad de calles,Santa Cruz de La Sierra,Ciudad,18,32.8
+Densidad de calles,La Guardia,Ciudad,19,25.7
+Densidad de calles,Warnes,Ciudad,20,39.9
+Densidad de calles,Montero,Ciudad,21,22.6
+Densidad de calles,Trinidad,Ciudad,22,20.3
+Densidad de calles,Riberalta,Ciudad,23,11.7
+Densidad de calles,Cobija,Ciudad,24,16.2
+Densidad de calles,Achocalla,Ciudad,25,0.0
+Densidad de calles,Sipe Sipe,Ciudad,26,0.0
+Densidad de calles,Vinto,Ciudad,27,4.9
+Densidad de calles,Cotoca,Ciudad,28,25.2
+Densidad de calles,El Torno,Ciudad,29,5.6
+Terrenos / tierra / superficie asignada a las calles,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Terrenos / tierra / superficie asignada a las calles,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Terrenos / tierra / superficie asignada a las calles,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Terrenos / tierra / superficie asignada a las calles,Total 20 ciudades,Ciudad,4,16.6
+Terrenos / tierra / superficie asignada a las calles,Sucre,Ciudad,5,4.8
+Terrenos / tierra / superficie asignada a las calles,La Paz,Ciudad,6,20.0
+Terrenos / tierra / superficie asignada a las calles,El Alto,Ciudad,7,0.0
+Terrenos / tierra / superficie asignada a las calles,Viacha,Ciudad,8,0.0
+Terrenos / tierra / superficie asignada a las calles,Cochabamba,Ciudad,9,15.6
+Terrenos / tierra / superficie asignada a las calles,Quillacollo,Ciudad,10,10.2
+Terrenos / tierra / superficie asignada a las calles,Tiquipaya,Ciudad,11,7.4
+Terrenos / tierra / superficie asignada a las calles,Colcapirhua,Ciudad,12,26.3
+Terrenos / tierra / superficie asignada a las calles,Sacaba,Ciudad,13,5.8
+Terrenos / tierra / superficie asignada a las calles,Oruro,Ciudad,14,6.3
+Terrenos / tierra / superficie asignada a las calles,Potosí,Ciudad,15,0.7
+Terrenos / tierra / superficie asignada a las calles,Tarija,Ciudad,16,23.5
+Terrenos / tierra / superficie asignada a las calles,Yacuiba,Ciudad,17,14.6
+Terrenos / tierra / superficie asignada a las calles,Santa Cruz de La Sierra,Ciudad,18,32.8
+Terrenos / tierra / superficie asignada a las calles,La Guardia,Ciudad,19,25.7
+Terrenos / tierra / superficie asignada a las calles,Warnes,Ciudad,20,39.9
+Terrenos / tierra / superficie asignada a las calles,Montero,Ciudad,21,22.6
+Terrenos / tierra / superficie asignada a las calles,Trinidad,Ciudad,22,20.3
+Terrenos / tierra / superficie asignada a las calles,Riberalta,Ciudad,23,11.7
+Terrenos / tierra / superficie asignada a las calles,Cobija,Ciudad,24,16.2
+Terrenos / tierra / superficie asignada a las calles,Achocalla,Ciudad,25,0.0
+Terrenos / tierra / superficie asignada a las calles,Sipe Sipe,Ciudad,26,0.0
+Terrenos / tierra / superficie asignada a las calles,Vinto,Ciudad,27,4.9
+Terrenos / tierra / superficie asignada a las calles,Cotoca,Ciudad,28,25.2
+Terrenos / tierra / superficie asignada a las calles,El Torno,Ciudad,29,5.6
+Viviendas mejoradas,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Viviendas mejoradas,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Viviendas mejoradas,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Viviendas mejoradas,Total 20 ciudades,Ciudad,4,16.6
+Viviendas mejoradas,Sucre,Ciudad,5,4.8
+Viviendas mejoradas,La Paz,Ciudad,6,20.0
+Viviendas mejoradas,El Alto,Ciudad,7,0.0
+Viviendas mejoradas,Viacha,Ciudad,8,0.0
+Viviendas mejoradas,Cochabamba,Ciudad,9,15.6
+Viviendas mejoradas,Quillacollo,Ciudad,10,10.2
+Viviendas mejoradas,Tiquipaya,Ciudad,11,7.4
+Viviendas mejoradas,Colcapirhua,Ciudad,12,26.3
+Viviendas mejoradas,Sacaba,Ciudad,13,5.8
+Viviendas mejoradas,Oruro,Ciudad,14,6.3
+Viviendas mejoradas,Potosí,Ciudad,15,0.7
+Viviendas mejoradas,Tarija,Ciudad,16,23.5
+Viviendas mejoradas,Yacuiba,Ciudad,17,14.6
+Viviendas mejoradas,Santa Cruz de La Sierra,Ciudad,18,32.8
+Viviendas mejoradas,La Guardia,Ciudad,19,25.7
+Viviendas mejoradas,Warnes,Ciudad,20,39.9
+Viviendas mejoradas,Montero,Ciudad,21,22.6
+Viviendas mejoradas,Trinidad,Ciudad,22,20.3
+Viviendas mejoradas,Riberalta,Ciudad,23,11.7
+Viviendas mejoradas,Cobija,Ciudad,24,16.2
+Viviendas mejoradas,Achocalla,Ciudad,25,0.0
+Viviendas mejoradas,Sipe Sipe,Ciudad,26,0.0
+Viviendas mejoradas,Vinto,Ciudad,27,4.9
+Viviendas mejoradas,Cotoca,Ciudad,28,25.2
+Viviendas mejoradas,El Torno,Ciudad,29,5.6
+Acceso a agua mejorada,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Acceso a agua mejorada,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Acceso a agua mejorada,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Acceso a agua mejorada,Total 20 ciudades,Ciudad,4,16.6
+Acceso a agua mejorada,Sucre,Ciudad,5,4.8
+Acceso a agua mejorada,La Paz,Ciudad,6,20.0
+Acceso a agua mejorada,El Alto,Ciudad,7,0.0
+Acceso a agua mejorada,Viacha,Ciudad,8,0.0
+Acceso a agua mejorada,Cochabamba,Ciudad,9,15.6
+Acceso a agua mejorada,Quillacollo,Ciudad,10,10.2
+Acceso a agua mejorada,Tiquipaya,Ciudad,11,7.4
+Acceso a agua mejorada,Colcapirhua,Ciudad,12,26.3
+Acceso a agua mejorada,Sacaba,Ciudad,13,5.8
+Acceso a agua mejorada,Oruro,Ciudad,14,6.3
+Acceso a agua mejorada,Potosí,Ciudad,15,0.7
+Acceso a agua mejorada,Tarija,Ciudad,16,23.5
+Acceso a agua mejorada,Yacuiba,Ciudad,17,14.6
+Acceso a agua mejorada,Santa Cruz de La Sierra,Ciudad,18,32.8
+Acceso a agua mejorada,La Guardia,Ciudad,19,25.7
+Acceso a agua mejorada,Warnes,Ciudad,20,39.9
+Acceso a agua mejorada,Montero,Ciudad,21,22.6
+Acceso a agua mejorada,Trinidad,Ciudad,22,20.3
+Acceso a agua mejorada,Riberalta,Ciudad,23,11.7
+Acceso a agua mejorada,Cobija,Ciudad,24,16.2
+Acceso a agua mejorada,Achocalla,Ciudad,25,0.0
+Acceso a agua mejorada,Sipe Sipe,Ciudad,26,0.0
+Acceso a agua mejorada,Vinto,Ciudad,27,4.9
+Acceso a agua mejorada,Cotoca,Ciudad,28,25.2
+Acceso a agua mejorada,El Torno,Ciudad,29,5.6
+Acceso a saneamiento mejorado,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Acceso a saneamiento mejorado,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Acceso a saneamiento mejorado,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Acceso a saneamiento mejorado,Total 20 ciudades,Ciudad,4,16.6
+Acceso a saneamiento mejorado,Sucre,Ciudad,5,4.8
+Acceso a saneamiento mejorado,La Paz,Ciudad,6,20.0
+Acceso a saneamiento mejorado,El Alto,Ciudad,7,0.0
+Acceso a saneamiento mejorado,Viacha,Ciudad,8,0.0
+Acceso a saneamiento mejorado,Cochabamba,Ciudad,9,15.6
+Acceso a saneamiento mejorado,Quillacollo,Ciudad,10,10.2
+Acceso a saneamiento mejorado,Tiquipaya,Ciudad,11,7.4
+Acceso a saneamiento mejorado,Colcapirhua,Ciudad,12,26.3
+Acceso a saneamiento mejorado,Sacaba,Ciudad,13,5.8
+Acceso a saneamiento mejorado,Oruro,Ciudad,14,6.3
+Acceso a saneamiento mejorado,Potosí,Ciudad,15,0.7
+Acceso a saneamiento mejorado,Tarija,Ciudad,16,23.5
+Acceso a saneamiento mejorado,Yacuiba,Ciudad,17,14.6
+Acceso a saneamiento mejorado,Santa Cruz de La Sierra,Ciudad,18,32.8
+Acceso a saneamiento mejorado,La Guardia,Ciudad,19,25.7
+Acceso a saneamiento mejorado,Warnes,Ciudad,20,39.9
+Acceso a saneamiento mejorado,Montero,Ciudad,21,22.6
+Acceso a saneamiento mejorado,Trinidad,Ciudad,22,20.3
+Acceso a saneamiento mejorado,Riberalta,Ciudad,23,11.7
+Acceso a saneamiento mejorado,Cobija,Ciudad,24,16.2
+Acceso a saneamiento mejorado,Achocalla,Ciudad,25,0.0
+Acceso a saneamiento mejorado,Sipe Sipe,Ciudad,26,0.0
+Acceso a saneamiento mejorado,Vinto,Ciudad,27,4.9
+Acceso a saneamiento mejorado,Cotoca,Ciudad,28,25.2
+Acceso a saneamiento mejorado,El Torno,Ciudad,29,5.6
+Acceso a la electricidad,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Acceso a la electricidad,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Acceso a la electricidad,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Acceso a la electricidad,Total 20 ciudades,Ciudad,4,16.6
+Acceso a la electricidad,Sucre,Ciudad,5,4.8
+Acceso a la electricidad,La Paz,Ciudad,6,20.0
+Acceso a la electricidad,El Alto,Ciudad,7,0.0
+Acceso a la electricidad,Viacha,Ciudad,8,0.0
+Acceso a la electricidad,Cochabamba,Ciudad,9,15.6
+Acceso a la electricidad,Quillacollo,Ciudad,10,10.2
+Acceso a la electricidad,Tiquipaya,Ciudad,11,7.4
+Acceso a la electricidad,Colcapirhua,Ciudad,12,26.3
+Acceso a la electricidad,Sacaba,Ciudad,13,5.8
+Acceso a la electricidad,Oruro,Ciudad,14,6.3
+Acceso a la electricidad,Potosí,Ciudad,15,0.7
+Acceso a la electricidad,Tarija,Ciudad,16,23.5
+Acceso a la electricidad,Yacuiba,Ciudad,17,14.6
+Acceso a la electricidad,Santa Cruz de La Sierra,Ciudad,18,32.8
+Acceso a la electricidad,La Guardia,Ciudad,19,25.7
+Acceso a la electricidad,Warnes,Ciudad,20,39.9
+Acceso a la electricidad,Montero,Ciudad,21,22.6
+Acceso a la electricidad,Trinidad,Ciudad,22,20.3
+Acceso a la electricidad,Riberalta,Ciudad,23,11.7
+Acceso a la electricidad,Cobija,Ciudad,24,16.2
+Acceso a la electricidad,Achocalla,Ciudad,25,0.0
+Acceso a la electricidad,Sipe Sipe,Ciudad,26,0.0
+Acceso a la electricidad,Vinto,Ciudad,27,4.9
+Acceso a la electricidad,Cotoca,Ciudad,28,25.2
+Acceso a la electricidad,El Torno,Ciudad,29,5.6
+Área suficiente para vivir,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Área suficiente para vivir,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Área suficiente para vivir,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Área suficiente para vivir,Total 20 ciudades,Ciudad,4,16.6
+Área suficiente para vivir,Sucre,Ciudad,5,4.8
+Área suficiente para vivir,La Paz,Ciudad,6,20.0
+Área suficiente para vivir,El Alto,Ciudad,7,0.0
+Área suficiente para vivir,Viacha,Ciudad,8,0.0
+Área suficiente para vivir,Cochabamba,Ciudad,9,15.6
+Área suficiente para vivir,Quillacollo,Ciudad,10,10.2
+Área suficiente para vivir,Tiquipaya,Ciudad,11,7.4
+Área suficiente para vivir,Colcapirhua,Ciudad,12,26.3
+Área suficiente para vivir,Sacaba,Ciudad,13,5.8
+Área suficiente para vivir,Oruro,Ciudad,14,6.3
+Área suficiente para vivir,Potosí,Ciudad,15,0.7
+Área suficiente para vivir,Tarija,Ciudad,16,23.5
+Área suficiente para vivir,Yacuiba,Ciudad,17,14.6
+Área suficiente para vivir,Santa Cruz de La Sierra,Ciudad,18,32.8
+Área suficiente para vivir,La Guardia,Ciudad,19,25.7
+Área suficiente para vivir,Warnes,Ciudad,20,39.9
+Área suficiente para vivir,Montero,Ciudad,21,22.6
+Área suficiente para vivir,Trinidad,Ciudad,22,20.3
+Área suficiente para vivir,Riberalta,Ciudad,23,11.7
+Área suficiente para vivir,Cobija,Ciudad,24,16.2
+Área suficiente para vivir,Achocalla,Ciudad,25,0.0
+Área suficiente para vivir,Sipe Sipe,Ciudad,26,0.0
+Área suficiente para vivir,Vinto,Ciudad,27,4.9
+Área suficiente para vivir,Cotoca,Ciudad,28,25.2
+Área suficiente para vivir,El Torno,Ciudad,29,5.6
+Densidad de población,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Densidad de población,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Densidad de población,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Densidad de población,Total 20 ciudades,Ciudad,4,16.6
+Densidad de población,Sucre,Ciudad,5,4.8
+Densidad de población,La Paz,Ciudad,6,20.0
+Densidad de población,El Alto,Ciudad,7,0.0
+Densidad de población,Viacha,Ciudad,8,0.0
+Densidad de población,Cochabamba,Ciudad,9,15.6
+Densidad de población,Quillacollo,Ciudad,10,10.2
+Densidad de población,Tiquipaya,Ciudad,11,7.4
+Densidad de población,Colcapirhua,Ciudad,12,26.3
+Densidad de población,Sacaba,Ciudad,13,5.8
+Densidad de población,Oruro,Ciudad,14,6.3
+Densidad de población,Potosí,Ciudad,15,0.7
+Densidad de población,Tarija,Ciudad,16,23.5
+Densidad de población,Yacuiba,Ciudad,17,14.6
+Densidad de población,Santa Cruz de La Sierra,Ciudad,18,32.8
+Densidad de población,La Guardia,Ciudad,19,25.7
+Densidad de población,Warnes,Ciudad,20,39.9
+Densidad de población,Montero,Ciudad,21,22.6
+Densidad de población,Trinidad,Ciudad,22,20.3
+Densidad de población,Riberalta,Ciudad,23,11.7
+Densidad de población,Cobija,Ciudad,24,16.2
+Densidad de población,Achocalla,Ciudad,25,0.0
+Densidad de población,Sipe Sipe,Ciudad,26,0.0
+Densidad de población,Vinto,Ciudad,27,4.9
+Densidad de población,Cotoca,Ciudad,28,25.2
+Densidad de población,El Torno,Ciudad,29,5.6
+Accesibilidad a espacios públicos abiertos,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Accesibilidad a espacios públicos abiertos,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Accesibilidad a espacios públicos abiertos,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Accesibilidad a espacios públicos abiertos,Total 20 ciudades,Ciudad,4,16.6
+Accesibilidad a espacios públicos abiertos,Sucre,Ciudad,5,4.8
+Accesibilidad a espacios públicos abiertos,La Paz,Ciudad,6,20.0
+Accesibilidad a espacios públicos abiertos,El Alto,Ciudad,7,0.0
+Accesibilidad a espacios públicos abiertos,Viacha,Ciudad,8,0.0
+Accesibilidad a espacios públicos abiertos,Cochabamba,Ciudad,9,15.6
+Accesibilidad a espacios públicos abiertos,Quillacollo,Ciudad,10,10.2
+Accesibilidad a espacios públicos abiertos,Tiquipaya,Ciudad,11,7.4
+Accesibilidad a espacios públicos abiertos,Colcapirhua,Ciudad,12,26.3
+Accesibilidad a espacios públicos abiertos,Sacaba,Ciudad,13,5.8
+Accesibilidad a espacios públicos abiertos,Oruro,Ciudad,14,6.3
+Accesibilidad a espacios públicos abiertos,Potosí,Ciudad,15,0.7
+Accesibilidad a espacios públicos abiertos,Tarija,Ciudad,16,23.5
+Accesibilidad a espacios públicos abiertos,Yacuiba,Ciudad,17,14.6
+Accesibilidad a espacios públicos abiertos,Santa Cruz de La Sierra,Ciudad,18,32.8
+Accesibilidad a espacios públicos abiertos,La Guardia,Ciudad,19,25.7
+Accesibilidad a espacios públicos abiertos,Warnes,Ciudad,20,39.9
+Accesibilidad a espacios públicos abiertos,Montero,Ciudad,21,22.6
+Accesibilidad a espacios públicos abiertos,Trinidad,Ciudad,22,20.3
+Accesibilidad a espacios públicos abiertos,Riberalta,Ciudad,23,11.7
+Accesibilidad a espacios públicos abiertos,Cobija,Ciudad,24,16.2
+Accesibilidad a espacios públicos abiertos,Achocalla,Ciudad,25,0.0
+Accesibilidad a espacios públicos abiertos,Sipe Sipe,Ciudad,26,0.0
+Accesibilidad a espacios públicos abiertos,Vinto,Ciudad,27,4.9
+Accesibilidad a espacios públicos abiertos,Cotoca,Ciudad,28,25.2
+Accesibilidad a espacios públicos abiertos,El Torno,Ciudad,29,5.6
+Área verde por habitante,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Área verde por habitante,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Área verde por habitante,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Área verde por habitante,Total 20 ciudades,Ciudad,4,16.6
+Área verde por habitante,Sucre,Ciudad,5,4.8
+Área verde por habitante,La Paz,Ciudad,6,20.0
+Área verde por habitante,El Alto,Ciudad,7,0.0
+Área verde por habitante,Viacha,Ciudad,8,0.0
+Área verde por habitante,Cochabamba,Ciudad,9,15.6
+Área verde por habitante,Quillacollo,Ciudad,10,10.2
+Área verde por habitante,Tiquipaya,Ciudad,11,7.4
+Área verde por habitante,Colcapirhua,Ciudad,12,26.3
+Área verde por habitante,Sacaba,Ciudad,13,5.8
+Área verde por habitante,Oruro,Ciudad,14,6.3
+Área verde por habitante,Potosí,Ciudad,15,0.7
+Área verde por habitante,Tarija,Ciudad,16,23.5
+Área verde por habitante,Yacuiba,Ciudad,17,14.6
+Área verde por habitante,Santa Cruz de La Sierra,Ciudad,18,32.8
+Área verde por habitante,La Guardia,Ciudad,19,25.7
+Área verde por habitante,Warnes,Ciudad,20,39.9
+Área verde por habitante,Montero,Ciudad,21,22.6
+Área verde por habitante,Trinidad,Ciudad,22,20.3
+Área verde por habitante,Riberalta,Ciudad,23,11.7
+Área verde por habitante,Cobija,Ciudad,24,16.2
+Área verde por habitante,Achocalla,Ciudad,25,0.0
+Área verde por habitante,Sipe Sipe,Ciudad,26,0.0
+Área verde por habitante,Vinto,Ciudad,27,4.9
+Área verde por habitante,Cotoca,Ciudad,28,25.2
+Área verde por habitante,El Torno,Ciudad,29,5.6
+Esperanza de vida al nacer,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Esperanza de vida al nacer,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Esperanza de vida al nacer,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Esperanza de vida al nacer,Total 20 ciudades,Ciudad,4,16.6
+Esperanza de vida al nacer,Sucre,Ciudad,5,4.8
+Esperanza de vida al nacer,La Paz,Ciudad,6,20.0
+Esperanza de vida al nacer,El Alto,Ciudad,7,0.0
+Esperanza de vida al nacer,Viacha,Ciudad,8,0.0
+Esperanza de vida al nacer,Cochabamba,Ciudad,9,15.6
+Esperanza de vida al nacer,Quillacollo,Ciudad,10,10.2
+Esperanza de vida al nacer,Tiquipaya,Ciudad,11,7.4
+Esperanza de vida al nacer,Colcapirhua,Ciudad,12,26.3
+Esperanza de vida al nacer,Sacaba,Ciudad,13,5.8
+Esperanza de vida al nacer,Oruro,Ciudad,14,6.3
+Esperanza de vida al nacer,Potosí,Ciudad,15,0.7
+Esperanza de vida al nacer,Tarija,Ciudad,16,23.5
+Esperanza de vida al nacer,Yacuiba,Ciudad,17,14.6
+Esperanza de vida al nacer,Santa Cruz de La Sierra,Ciudad,18,32.8
+Esperanza de vida al nacer,La Guardia,Ciudad,19,25.7
+Esperanza de vida al nacer,Warnes,Ciudad,20,39.9
+Esperanza de vida al nacer,Montero,Ciudad,21,22.6
+Esperanza de vida al nacer,Trinidad,Ciudad,22,20.3
+Esperanza de vida al nacer,Riberalta,Ciudad,23,11.7
+Esperanza de vida al nacer,Cobija,Ciudad,24,16.2
+Esperanza de vida al nacer,Achocalla,Ciudad,25,0.0
+Esperanza de vida al nacer,Sipe Sipe,Ciudad,26,0.0
+Esperanza de vida al nacer,Vinto,Ciudad,27,4.9
+Esperanza de vida al nacer,Cotoca,Ciudad,28,25.2
+Esperanza de vida al nacer,El Torno,Ciudad,29,5.6
+Tasa de mortalidad de menores de cinco años,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Tasa de mortalidad de menores de cinco años,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Tasa de mortalidad de menores de cinco años,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Tasa de mortalidad de menores de cinco años,Total 20 ciudades,Ciudad,4,16.6
+Tasa de mortalidad de menores de cinco años,Sucre,Ciudad,5,4.8
+Tasa de mortalidad de menores de cinco años,La Paz,Ciudad,6,20.0
+Tasa de mortalidad de menores de cinco años,El Alto,Ciudad,7,0.0
+Tasa de mortalidad de menores de cinco años,Viacha,Ciudad,8,0.0
+Tasa de mortalidad de menores de cinco años,Cochabamba,Ciudad,9,15.6
+Tasa de mortalidad de menores de cinco años,Quillacollo,Ciudad,10,10.2
+Tasa de mortalidad de menores de cinco años,Tiquipaya,Ciudad,11,7.4
+Tasa de mortalidad de menores de cinco años,Colcapirhua,Ciudad,12,26.3
+Tasa de mortalidad de menores de cinco años,Sacaba,Ciudad,13,5.8
+Tasa de mortalidad de menores de cinco años,Oruro,Ciudad,14,6.3
+Tasa de mortalidad de menores de cinco años,Potosí,Ciudad,15,0.7
+Tasa de mortalidad de menores de cinco años,Tarija,Ciudad,16,23.5
+Tasa de mortalidad de menores de cinco años,Yacuiba,Ciudad,17,14.6
+Tasa de mortalidad de menores de cinco años,Santa Cruz de La Sierra,Ciudad,18,32.8
+Tasa de mortalidad de menores de cinco años,La Guardia,Ciudad,19,25.7
+Tasa de mortalidad de menores de cinco años,Warnes,Ciudad,20,39.9
+Tasa de mortalidad de menores de cinco años,Montero,Ciudad,21,22.6
+Tasa de mortalidad de menores de cinco años,Trinidad,Ciudad,22,20.3
+Tasa de mortalidad de menores de cinco años,Riberalta,Ciudad,23,11.7
+Tasa de mortalidad de menores de cinco años,Cobija,Ciudad,24,16.2
+Tasa de mortalidad de menores de cinco años,Achocalla,Ciudad,25,0.0
+Tasa de mortalidad de menores de cinco años,Sipe Sipe,Ciudad,26,0.0
+Tasa de mortalidad de menores de cinco años,Vinto,Ciudad,27,4.9
+Tasa de mortalidad de menores de cinco años,Cotoca,Ciudad,28,25.2
+Tasa de mortalidad de menores de cinco años,El Torno,Ciudad,29,5.6
+Cobertura de vacunación,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Cobertura de vacunación,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Cobertura de vacunación,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Cobertura de vacunación,Total 20 ciudades,Ciudad,4,16.6
+Cobertura de vacunación,Sucre,Ciudad,5,4.8
+Cobertura de vacunación,La Paz,Ciudad,6,20.0
+Cobertura de vacunación,El Alto,Ciudad,7,0.0
+Cobertura de vacunación,Viacha,Ciudad,8,0.0
+Cobertura de vacunación,Cochabamba,Ciudad,9,15.6
+Cobertura de vacunación,Quillacollo,Ciudad,10,10.2
+Cobertura de vacunación,Tiquipaya,Ciudad,11,7.4
+Cobertura de vacunación,Colcapirhua,Ciudad,12,26.3
+Cobertura de vacunación,Sacaba,Ciudad,13,5.8
+Cobertura de vacunación,Oruro,Ciudad,14,6.3
+Cobertura de vacunación,Potosí,Ciudad,15,0.7
+Cobertura de vacunación,Tarija,Ciudad,16,23.5
+Cobertura de vacunación,Yacuiba,Ciudad,17,14.6
+Cobertura de vacunación,Santa Cruz de La Sierra,Ciudad,18,32.8
+Cobertura de vacunación,La Guardia,Ciudad,19,25.7
+Cobertura de vacunación,Warnes,Ciudad,20,39.9
+Cobertura de vacunación,Montero,Ciudad,21,22.6
+Cobertura de vacunación,Trinidad,Ciudad,22,20.3
+Cobertura de vacunación,Riberalta,Ciudad,23,11.7
+Cobertura de vacunación,Cobija,Ciudad,24,16.2
+Cobertura de vacunación,Achocalla,Ciudad,25,0.0
+Cobertura de vacunación,Sipe Sipe,Ciudad,26,0.0
+Cobertura de vacunación,Vinto,Ciudad,27,4.9
+Cobertura de vacunación,Cotoca,Ciudad,28,25.2
+Cobertura de vacunación,El Torno,Ciudad,29,5.6
+Tasa de alfabetización,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Tasa de alfabetización,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Tasa de alfabetización,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Tasa de alfabetización,Total 20 ciudades,Ciudad,4,16.6
+Tasa de alfabetización,Sucre,Ciudad,5,4.8
+Tasa de alfabetización,La Paz,Ciudad,6,20.0
+Tasa de alfabetización,El Alto,Ciudad,7,0.0
+Tasa de alfabetización,Viacha,Ciudad,8,0.0
+Tasa de alfabetización,Cochabamba,Ciudad,9,15.6
+Tasa de alfabetización,Quillacollo,Ciudad,10,10.2
+Tasa de alfabetización,Tiquipaya,Ciudad,11,7.4
+Tasa de alfabetización,Colcapirhua,Ciudad,12,26.3
+Tasa de alfabetización,Sacaba,Ciudad,13,5.8
+Tasa de alfabetización,Oruro,Ciudad,14,6.3
+Tasa de alfabetización,Potosí,Ciudad,15,0.7
+Tasa de alfabetización,Tarija,Ciudad,16,23.5
+Tasa de alfabetización,Yacuiba,Ciudad,17,14.6
+Tasa de alfabetización,Santa Cruz de La Sierra,Ciudad,18,32.8
+Tasa de alfabetización,La Guardia,Ciudad,19,25.7
+Tasa de alfabetización,Warnes,Ciudad,20,39.9
+Tasa de alfabetización,Montero,Ciudad,21,22.6
+Tasa de alfabetización,Trinidad,Ciudad,22,20.3
+Tasa de alfabetización,Riberalta,Ciudad,23,11.7
+Tasa de alfabetización,Cobija,Ciudad,24,16.2
+Tasa de alfabetización,Achocalla,Ciudad,25,0.0
+Tasa de alfabetización,Sipe Sipe,Ciudad,26,0.0
+Tasa de alfabetización,Vinto,Ciudad,27,4.9
+Tasa de alfabetización,Cotoca,Ciudad,28,25.2
+Tasa de alfabetización,El Torno,Ciudad,29,5.6
+Años promedio de escolaridad,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Años promedio de escolaridad,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Años promedio de escolaridad,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Años promedio de escolaridad,Total 20 ciudades,Ciudad,4,16.6
+Años promedio de escolaridad,Sucre,Ciudad,5,4.8
+Años promedio de escolaridad,La Paz,Ciudad,6,20.0
+Años promedio de escolaridad,El Alto,Ciudad,7,0.0
+Años promedio de escolaridad,Viacha,Ciudad,8,0.0
+Años promedio de escolaridad,Cochabamba,Ciudad,9,15.6
+Años promedio de escolaridad,Quillacollo,Ciudad,10,10.2
+Años promedio de escolaridad,Tiquipaya,Ciudad,11,7.4
+Años promedio de escolaridad,Colcapirhua,Ciudad,12,26.3
+Años promedio de escolaridad,Sacaba,Ciudad,13,5.8
+Años promedio de escolaridad,Oruro,Ciudad,14,6.3
+Años promedio de escolaridad,Potosí,Ciudad,15,0.7
+Años promedio de escolaridad,Tarija,Ciudad,16,23.5
+Años promedio de escolaridad,Yacuiba,Ciudad,17,14.6
+Años promedio de escolaridad,Santa Cruz de La Sierra,Ciudad,18,32.8
+Años promedio de escolaridad,La Guardia,Ciudad,19,25.7
+Años promedio de escolaridad,Warnes,Ciudad,20,39.9
+Años promedio de escolaridad,Montero,Ciudad,21,22.6
+Años promedio de escolaridad,Trinidad,Ciudad,22,20.3
+Años promedio de escolaridad,Riberalta,Ciudad,23,11.7
+Años promedio de escolaridad,Cobija,Ciudad,24,16.2
+Años promedio de escolaridad,Achocalla,Ciudad,25,0.0
+Años promedio de escolaridad,Sipe Sipe,Ciudad,26,0.0
+Años promedio de escolaridad,Vinto,Ciudad,27,4.9
+Años promedio de escolaridad,Cotoca,Ciudad,28,25.2
+Años promedio de escolaridad,El Torno,Ciudad,29,5.6
+Educación de la primera infancia,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Educación de la primera infancia,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Educación de la primera infancia,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Educación de la primera infancia,Total 20 ciudades,Ciudad,4,16.6
+Educación de la primera infancia,Sucre,Ciudad,5,4.8
+Educación de la primera infancia,La Paz,Ciudad,6,20.0
+Educación de la primera infancia,El Alto,Ciudad,7,0.0
+Educación de la primera infancia,Viacha,Ciudad,8,0.0
+Educación de la primera infancia,Cochabamba,Ciudad,9,15.6
+Educación de la primera infancia,Quillacollo,Ciudad,10,10.2
+Educación de la primera infancia,Tiquipaya,Ciudad,11,7.4
+Educación de la primera infancia,Colcapirhua,Ciudad,12,26.3
+Educación de la primera infancia,Sacaba,Ciudad,13,5.8
+Educación de la primera infancia,Oruro,Ciudad,14,6.3
+Educación de la primera infancia,Potosí,Ciudad,15,0.7
+Educación de la primera infancia,Tarija,Ciudad,16,23.5
+Educación de la primera infancia,Yacuiba,Ciudad,17,14.6
+Educación de la primera infancia,Santa Cruz de La Sierra,Ciudad,18,32.8
+Educación de la primera infancia,La Guardia,Ciudad,19,25.7
+Educación de la primera infancia,Warnes,Ciudad,20,39.9
+Educación de la primera infancia,Montero,Ciudad,21,22.6
+Educación de la primera infancia,Trinidad,Ciudad,22,20.3
+Educación de la primera infancia,Riberalta,Ciudad,23,11.7
+Educación de la primera infancia,Cobija,Ciudad,24,16.2
+Educación de la primera infancia,Achocalla,Ciudad,25,0.0
+Educación de la primera infancia,Sipe Sipe,Ciudad,26,0.0
+Educación de la primera infancia,Vinto,Ciudad,27,4.9
+Educación de la primera infancia,Cotoca,Ciudad,28,25.2
+Educación de la primera infancia,El Torno,Ciudad,29,5.6
+Tasa neta de matrícula en educación superior,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Tasa neta de matrícula en educación superior,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Tasa neta de matrícula en educación superior,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Tasa neta de matrícula en educación superior,Total 20 ciudades,Ciudad,4,16.6
+Tasa neta de matrícula en educación superior,Sucre,Ciudad,5,4.8
+Tasa neta de matrícula en educación superior,La Paz,Ciudad,6,20.0
+Tasa neta de matrícula en educación superior,El Alto,Ciudad,7,0.0
+Tasa neta de matrícula en educación superior,Viacha,Ciudad,8,0.0
+Tasa neta de matrícula en educación superior,Cochabamba,Ciudad,9,15.6
+Tasa neta de matrícula en educación superior,Quillacollo,Ciudad,10,10.2
+Tasa neta de matrícula en educación superior,Tiquipaya,Ciudad,11,7.4
+Tasa neta de matrícula en educación superior,Colcapirhua,Ciudad,12,26.3
+Tasa neta de matrícula en educación superior,Sacaba,Ciudad,13,5.8
+Tasa neta de matrícula en educación superior,Oruro,Ciudad,14,6.3
+Tasa neta de matrícula en educación superior,Potosí,Ciudad,15,0.7
+Tasa neta de matrícula en educación superior,Tarija,Ciudad,16,23.5
+Tasa neta de matrícula en educación superior,Yacuiba,Ciudad,17,14.6
+Tasa neta de matrícula en educación superior,Santa Cruz de La Sierra,Ciudad,18,32.8
+Tasa neta de matrícula en educación superior,La Guardia,Ciudad,19,25.7
+Tasa neta de matrícula en educación superior,Warnes,Ciudad,20,39.9
+Tasa neta de matrícula en educación superior,Montero,Ciudad,21,22.6
+Tasa neta de matrícula en educación superior,Trinidad,Ciudad,22,20.3
+Tasa neta de matrícula en educación superior,Riberalta,Ciudad,23,11.7
+Tasa neta de matrícula en educación superior,Cobija,Ciudad,24,16.2
+Tasa neta de matrícula en educación superior,Achocalla,Ciudad,25,0.0
+Tasa neta de matrícula en educación superior,Sipe Sipe,Ciudad,26,0.0
+Tasa neta de matrícula en educación superior,Vinto,Ciudad,27,4.9
+Tasa neta de matrícula en educación superior,Cotoca,Ciudad,28,25.2
+Tasa neta de matrícula en educación superior,El Torno,Ciudad,29,5.6
+Tasa de homicidios,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Tasa de homicidios,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Tasa de homicidios,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Tasa de homicidios,Total 20 ciudades,Ciudad,4,16.6
+Tasa de homicidios,Sucre,Ciudad,5,4.8
+Tasa de homicidios,La Paz,Ciudad,6,20.0
+Tasa de homicidios,El Alto,Ciudad,7,0.0
+Tasa de homicidios,Viacha,Ciudad,8,0.0
+Tasa de homicidios,Cochabamba,Ciudad,9,15.6
+Tasa de homicidios,Quillacollo,Ciudad,10,10.2
+Tasa de homicidios,Tiquipaya,Ciudad,11,7.4
+Tasa de homicidios,Colcapirhua,Ciudad,12,26.3
+Tasa de homicidios,Sacaba,Ciudad,13,5.8
+Tasa de homicidios,Oruro,Ciudad,14,6.3
+Tasa de homicidios,Potosí,Ciudad,15,0.7
+Tasa de homicidios,Tarija,Ciudad,16,23.5
+Tasa de homicidios,Yacuiba,Ciudad,17,14.6
+Tasa de homicidios,Santa Cruz de La Sierra,Ciudad,18,32.8
+Tasa de homicidios,La Guardia,Ciudad,19,25.7
+Tasa de homicidios,Warnes,Ciudad,20,39.9
+Tasa de homicidios,Montero,Ciudad,21,22.6
+Tasa de homicidios,Trinidad,Ciudad,22,20.3
+Tasa de homicidios,Riberalta,Ciudad,23,11.7
+Tasa de homicidios,Cobija,Ciudad,24,16.2
+Tasa de homicidios,Achocalla,Ciudad,25,0.0
+Tasa de homicidios,Sipe Sipe,Ciudad,26,0.0
+Tasa de homicidios,Vinto,Ciudad,27,4.9
+Tasa de homicidios,Cotoca,Ciudad,28,25.2
+Tasa de homicidios,El Torno,Ciudad,29,5.6
+Tasa de robo,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Tasa de robo,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Tasa de robo,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Tasa de robo,Total 20 ciudades,Ciudad,4,16.6
+Tasa de robo,Sucre,Ciudad,5,4.8
+Tasa de robo,La Paz,Ciudad,6,20.0
+Tasa de robo,El Alto,Ciudad,7,0.0
+Tasa de robo,Viacha,Ciudad,8,0.0
+Tasa de robo,Cochabamba,Ciudad,9,15.6
+Tasa de robo,Quillacollo,Ciudad,10,10.2
+Tasa de robo,Tiquipaya,Ciudad,11,7.4
+Tasa de robo,Colcapirhua,Ciudad,12,26.3
+Tasa de robo,Sacaba,Ciudad,13,5.8
+Tasa de robo,Oruro,Ciudad,14,6.3
+Tasa de robo,Potosí,Ciudad,15,0.7
+Tasa de robo,Tarija,Ciudad,16,23.5
+Tasa de robo,Yacuiba,Ciudad,17,14.6
+Tasa de robo,Santa Cruz de La Sierra,Ciudad,18,32.8
+Tasa de robo,La Guardia,Ciudad,19,25.7
+Tasa de robo,Warnes,Ciudad,20,39.9
+Tasa de robo,Montero,Ciudad,21,22.6
+Tasa de robo,Trinidad,Ciudad,22,20.3
+Tasa de robo,Riberalta,Ciudad,23,11.7
+Tasa de robo,Cobija,Ciudad,24,16.2
+Tasa de robo,Achocalla,Ciudad,25,0.0
+Tasa de robo,Sipe Sipe,Ciudad,26,0.0
+Tasa de robo,Vinto,Ciudad,27,4.9
+Tasa de robo,Cotoca,Ciudad,28,25.2
+Tasa de robo,El Torno,Ciudad,29,5.6
+Incidencia de pobreza,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Incidencia de pobreza,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Incidencia de pobreza,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Incidencia de pobreza,Total 20 ciudades,Ciudad,4,16.6
+Incidencia de pobreza,Sucre,Ciudad,5,4.8
+Incidencia de pobreza,La Paz,Ciudad,6,20.0
+Incidencia de pobreza,El Alto,Ciudad,7,0.0
+Incidencia de pobreza,Viacha,Ciudad,8,0.0
+Incidencia de pobreza,Cochabamba,Ciudad,9,15.6
+Incidencia de pobreza,Quillacollo,Ciudad,10,10.2
+Incidencia de pobreza,Tiquipaya,Ciudad,11,7.4
+Incidencia de pobreza,Colcapirhua,Ciudad,12,26.3
+Incidencia de pobreza,Sacaba,Ciudad,13,5.8
+Incidencia de pobreza,Oruro,Ciudad,14,6.3
+Incidencia de pobreza,Potosí,Ciudad,15,0.7
+Incidencia de pobreza,Tarija,Ciudad,16,23.5
+Incidencia de pobreza,Yacuiba,Ciudad,17,14.6
+Incidencia de pobreza,Santa Cruz de La Sierra,Ciudad,18,32.8
+Incidencia de pobreza,La Guardia,Ciudad,19,25.7
+Incidencia de pobreza,Warnes,Ciudad,20,39.9
+Incidencia de pobreza,Montero,Ciudad,21,22.6
+Incidencia de pobreza,Trinidad,Ciudad,22,20.3
+Incidencia de pobreza,Riberalta,Ciudad,23,11.7
+Incidencia de pobreza,Cobija,Ciudad,24,16.2
+Incidencia de pobreza,Achocalla,Ciudad,25,0.0
+Incidencia de pobreza,Sipe Sipe,Ciudad,26,0.0
+Incidencia de pobreza,Vinto,Ciudad,27,4.9
+Incidencia de pobreza,Cotoca,Ciudad,28,25.2
+Incidencia de pobreza,El Torno,Ciudad,29,5.6
+Coeficiente de GINI,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Coeficiente de GINI,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Coeficiente de GINI,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Coeficiente de GINI,Total 20 ciudades,Ciudad,4,16.6
+Coeficiente de GINI,Sucre,Ciudad,5,4.8
+Coeficiente de GINI,La Paz,Ciudad,6,20.0
+Coeficiente de GINI,El Alto,Ciudad,7,0.0
+Coeficiente de GINI,Viacha,Ciudad,8,0.0
+Coeficiente de GINI,Cochabamba,Ciudad,9,15.6
+Coeficiente de GINI,Quillacollo,Ciudad,10,10.2
+Coeficiente de GINI,Tiquipaya,Ciudad,11,7.4
+Coeficiente de GINI,Colcapirhua,Ciudad,12,26.3
+Coeficiente de GINI,Sacaba,Ciudad,13,5.8
+Coeficiente de GINI,Oruro,Ciudad,14,6.3
+Coeficiente de GINI,Potosí,Ciudad,15,0.7
+Coeficiente de GINI,Tarija,Ciudad,16,23.5
+Coeficiente de GINI,Yacuiba,Ciudad,17,14.6
+Coeficiente de GINI,Santa Cruz de La Sierra,Ciudad,18,32.8
+Coeficiente de GINI,La Guardia,Ciudad,19,25.7
+Coeficiente de GINI,Warnes,Ciudad,20,39.9
+Coeficiente de GINI,Montero,Ciudad,21,22.6
+Coeficiente de GINI,Trinidad,Ciudad,22,20.3
+Coeficiente de GINI,Riberalta,Ciudad,23,11.7
+Coeficiente de GINI,Cobija,Ciudad,24,16.2
+Coeficiente de GINI,Achocalla,Ciudad,25,0.0
+Coeficiente de GINI,Sipe Sipe,Ciudad,26,0.0
+Coeficiente de GINI,Vinto,Ciudad,27,4.9
+Coeficiente de GINI,Cotoca,Ciudad,28,25.2
+Coeficiente de GINI,El Torno,Ciudad,29,5.6
+Hogares en tugurios,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Hogares en tugurios,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Hogares en tugurios,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Hogares en tugurios,Total 20 ciudades,Ciudad,4,16.6
+Hogares en tugurios,Sucre,Ciudad,5,4.8
+Hogares en tugurios,La Paz,Ciudad,6,20.0
+Hogares en tugurios,El Alto,Ciudad,7,0.0
+Hogares en tugurios,Viacha,Ciudad,8,0.0
+Hogares en tugurios,Cochabamba,Ciudad,9,15.6
+Hogares en tugurios,Quillacollo,Ciudad,10,10.2
+Hogares en tugurios,Tiquipaya,Ciudad,11,7.4
+Hogares en tugurios,Colcapirhua,Ciudad,12,26.3
+Hogares en tugurios,Sacaba,Ciudad,13,5.8
+Hogares en tugurios,Oruro,Ciudad,14,6.3
+Hogares en tugurios,Potosí,Ciudad,15,0.7
+Hogares en tugurios,Tarija,Ciudad,16,23.5
+Hogares en tugurios,Yacuiba,Ciudad,17,14.6
+Hogares en tugurios,Santa Cruz de La Sierra,Ciudad,18,32.8
+Hogares en tugurios,La Guardia,Ciudad,19,25.7
+Hogares en tugurios,Warnes,Ciudad,20,39.9
+Hogares en tugurios,Montero,Ciudad,21,22.6
+Hogares en tugurios,Trinidad,Ciudad,22,20.3
+Hogares en tugurios,Riberalta,Ciudad,23,11.7
+Hogares en tugurios,Cobija,Ciudad,24,16.2
+Hogares en tugurios,Achocalla,Ciudad,25,0.0
+Hogares en tugurios,Sipe Sipe,Ciudad,26,0.0
+Hogares en tugurios,Vinto,Ciudad,27,4.9
+Hogares en tugurios,Cotoca,Ciudad,28,25.2
+Hogares en tugurios,El Torno,Ciudad,29,5.6
+Desempleo juvenil,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Desempleo juvenil,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Desempleo juvenil,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Desempleo juvenil,Total 20 ciudades,Ciudad,4,16.6
+Desempleo juvenil,Sucre,Ciudad,5,4.8
+Desempleo juvenil,La Paz,Ciudad,6,20.0
+Desempleo juvenil,El Alto,Ciudad,7,0.0
+Desempleo juvenil,Viacha,Ciudad,8,0.0
+Desempleo juvenil,Cochabamba,Ciudad,9,15.6
+Desempleo juvenil,Quillacollo,Ciudad,10,10.2
+Desempleo juvenil,Tiquipaya,Ciudad,11,7.4
+Desempleo juvenil,Colcapirhua,Ciudad,12,26.3
+Desempleo juvenil,Sacaba,Ciudad,13,5.8
+Desempleo juvenil,Oruro,Ciudad,14,6.3
+Desempleo juvenil,Potosí,Ciudad,15,0.7
+Desempleo juvenil,Tarija,Ciudad,16,23.5
+Desempleo juvenil,Yacuiba,Ciudad,17,14.6
+Desempleo juvenil,Santa Cruz de La Sierra,Ciudad,18,32.8
+Desempleo juvenil,La Guardia,Ciudad,19,25.7
+Desempleo juvenil,Warnes,Ciudad,20,39.9
+Desempleo juvenil,Montero,Ciudad,21,22.6
+Desempleo juvenil,Trinidad,Ciudad,22,20.3
+Desempleo juvenil,Riberalta,Ciudad,23,11.7
+Desempleo juvenil,Cobija,Ciudad,24,16.2
+Desempleo juvenil,Achocalla,Ciudad,25,0.0
+Desempleo juvenil,Sipe Sipe,Ciudad,26,0.0
+Desempleo juvenil,Vinto,Ciudad,27,4.9
+Desempleo juvenil,Cotoca,Ciudad,28,25.2
+Desempleo juvenil,El Torno,Ciudad,29,5.6
+Equidad en la matriculación en secundaria,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Equidad en la matriculación en secundaria,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Equidad en la matriculación en secundaria,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Equidad en la matriculación en secundaria,Total 20 ciudades,Ciudad,4,16.6
+Equidad en la matriculación en secundaria,Sucre,Ciudad,5,4.8
+Equidad en la matriculación en secundaria,La Paz,Ciudad,6,20.0
+Equidad en la matriculación en secundaria,El Alto,Ciudad,7,0.0
+Equidad en la matriculación en secundaria,Viacha,Ciudad,8,0.0
+Equidad en la matriculación en secundaria,Cochabamba,Ciudad,9,15.6
+Equidad en la matriculación en secundaria,Quillacollo,Ciudad,10,10.2
+Equidad en la matriculación en secundaria,Tiquipaya,Ciudad,11,7.4
+Equidad en la matriculación en secundaria,Colcapirhua,Ciudad,12,26.3
+Equidad en la matriculación en secundaria,Sacaba,Ciudad,13,5.8
+Equidad en la matriculación en secundaria,Oruro,Ciudad,14,6.3
+Equidad en la matriculación en secundaria,Potosí,Ciudad,15,0.7
+Equidad en la matriculación en secundaria,Tarija,Ciudad,16,23.5
+Equidad en la matriculación en secundaria,Yacuiba,Ciudad,17,14.6
+Equidad en la matriculación en secundaria,Santa Cruz de La Sierra,Ciudad,18,32.8
+Equidad en la matriculación en secundaria,La Guardia,Ciudad,19,25.7
+Equidad en la matriculación en secundaria,Warnes,Ciudad,20,39.9
+Equidad en la matriculación en secundaria,Montero,Ciudad,21,22.6
+Equidad en la matriculación en secundaria,Trinidad,Ciudad,22,20.3
+Equidad en la matriculación en secundaria,Riberalta,Ciudad,23,11.7
+Equidad en la matriculación en secundaria,Cobija,Ciudad,24,16.2
+Equidad en la matriculación en secundaria,Achocalla,Ciudad,25,0.0
+Equidad en la matriculación en secundaria,Sipe Sipe,Ciudad,26,0.0
+Equidad en la matriculación en secundaria,Vinto,Ciudad,27,4.9
+Equidad en la matriculación en secundaria,Cotoca,Ciudad,28,25.2
+Equidad en la matriculación en secundaria,El Torno,Ciudad,29,5.6
+Mujeres en el gobierno local,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Mujeres en el gobierno local,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Mujeres en el gobierno local,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Mujeres en el gobierno local,Total 20 ciudades,Ciudad,4,16.6
+Mujeres en el gobierno local,Sucre,Ciudad,5,4.8
+Mujeres en el gobierno local,La Paz,Ciudad,6,20.0
+Mujeres en el gobierno local,El Alto,Ciudad,7,0.0
+Mujeres en el gobierno local,Viacha,Ciudad,8,0.0
+Mujeres en el gobierno local,Cochabamba,Ciudad,9,15.6
+Mujeres en el gobierno local,Quillacollo,Ciudad,10,10.2
+Mujeres en el gobierno local,Tiquipaya,Ciudad,11,7.4
+Mujeres en el gobierno local,Colcapirhua,Ciudad,12,26.3
+Mujeres en el gobierno local,Sacaba,Ciudad,13,5.8
+Mujeres en el gobierno local,Oruro,Ciudad,14,6.3
+Mujeres en el gobierno local,Potosí,Ciudad,15,0.7
+Mujeres en el gobierno local,Tarija,Ciudad,16,23.5
+Mujeres en el gobierno local,Yacuiba,Ciudad,17,14.6
+Mujeres en el gobierno local,Santa Cruz de La Sierra,Ciudad,18,32.8
+Mujeres en el gobierno local,La Guardia,Ciudad,19,25.7
+Mujeres en el gobierno local,Warnes,Ciudad,20,39.9
+Mujeres en el gobierno local,Montero,Ciudad,21,22.6
+Mujeres en el gobierno local,Trinidad,Ciudad,22,20.3
+Mujeres en el gobierno local,Riberalta,Ciudad,23,11.7
+Mujeres en el gobierno local,Cobija,Ciudad,24,16.2
+Mujeres en el gobierno local,Achocalla,Ciudad,25,0.0
+Mujeres en el gobierno local,Sipe Sipe,Ciudad,26,0.0
+Mujeres en el gobierno local,Vinto,Ciudad,27,4.9
+Mujeres en el gobierno local,Cotoca,Ciudad,28,25.2
+Mujeres en el gobierno local,El Torno,Ciudad,29,5.6
+Mujeres en la fuerza laboral local,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Mujeres en la fuerza laboral local,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Mujeres en la fuerza laboral local,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Mujeres en la fuerza laboral local,Total 20 ciudades,Ciudad,4,16.6
+Mujeres en la fuerza laboral local,Sucre,Ciudad,5,4.8
+Mujeres en la fuerza laboral local,La Paz,Ciudad,6,20.0
+Mujeres en la fuerza laboral local,El Alto,Ciudad,7,0.0
+Mujeres en la fuerza laboral local,Viacha,Ciudad,8,0.0
+Mujeres en la fuerza laboral local,Cochabamba,Ciudad,9,15.6
+Mujeres en la fuerza laboral local,Quillacollo,Ciudad,10,10.2
+Mujeres en la fuerza laboral local,Tiquipaya,Ciudad,11,7.4
+Mujeres en la fuerza laboral local,Colcapirhua,Ciudad,12,26.3
+Mujeres en la fuerza laboral local,Sacaba,Ciudad,13,5.8
+Mujeres en la fuerza laboral local,Oruro,Ciudad,14,6.3
+Mujeres en la fuerza laboral local,Potosí,Ciudad,15,0.7
+Mujeres en la fuerza laboral local,Tarija,Ciudad,16,23.5
+Mujeres en la fuerza laboral local,Yacuiba,Ciudad,17,14.6
+Mujeres en la fuerza laboral local,Santa Cruz de La Sierra,Ciudad,18,32.8
+Mujeres en la fuerza laboral local,La Guardia,Ciudad,19,25.7
+Mujeres en la fuerza laboral local,Warnes,Ciudad,20,39.9
+Mujeres en la fuerza laboral local,Montero,Ciudad,21,22.6
+Mujeres en la fuerza laboral local,Trinidad,Ciudad,22,20.3
+Mujeres en la fuerza laboral local,Riberalta,Ciudad,23,11.7
+Mujeres en la fuerza laboral local,Cobija,Ciudad,24,16.2
+Mujeres en la fuerza laboral local,Achocalla,Ciudad,25,0.0
+Mujeres en la fuerza laboral local,Sipe Sipe,Ciudad,26,0.0
+Mujeres en la fuerza laboral local,Vinto,Ciudad,27,4.9
+Mujeres en la fuerza laboral local,Cotoca,Ciudad,28,25.2
+Mujeres en la fuerza laboral local,El Torno,Ciudad,29,5.6
+Concentración de PM10,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Concentración de PM10,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Concentración de PM10,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Concentración de PM10,Total 20 ciudades,Ciudad,4,16.6
+Concentración de PM10,Sucre,Ciudad,5,4.8
+Concentración de PM10,La Paz,Ciudad,6,20.0
+Concentración de PM10,El Alto,Ciudad,7,0.0
+Concentración de PM10,Viacha,Ciudad,8,0.0
+Concentración de PM10,Cochabamba,Ciudad,9,15.6
+Concentración de PM10,Quillacollo,Ciudad,10,10.2
+Concentración de PM10,Tiquipaya,Ciudad,11,7.4
+Concentración de PM10,Colcapirhua,Ciudad,12,26.3
+Concentración de PM10,Sacaba,Ciudad,13,5.8
+Concentración de PM10,Oruro,Ciudad,14,6.3
+Concentración de PM10,Potosí,Ciudad,15,0.7
+Concentración de PM10,Tarija,Ciudad,16,23.5
+Concentración de PM10,Yacuiba,Ciudad,17,14.6
+Concentración de PM10,Santa Cruz de La Sierra,Ciudad,18,32.8
+Concentración de PM10,La Guardia,Ciudad,19,25.7
+Concentración de PM10,Warnes,Ciudad,20,39.9
+Concentración de PM10,Montero,Ciudad,21,22.6
+Concentración de PM10,Trinidad,Ciudad,22,20.3
+Concentración de PM10,Riberalta,Ciudad,23,11.7
+Concentración de PM10,Cobija,Ciudad,24,16.2
+Concentración de PM10,Achocalla,Ciudad,25,0.0
+Concentración de PM10,Sipe Sipe,Ciudad,26,0.0
+Concentración de PM10,Vinto,Ciudad,27,4.9
+Concentración de PM10,Cotoca,Ciudad,28,25.2
+Concentración de PM10,El Torno,Ciudad,29,5.6
+Número de estaciones de monitoreo,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Número de estaciones de monitoreo,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Número de estaciones de monitoreo,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Número de estaciones de monitoreo,Total 20 ciudades,Ciudad,4,16.6
+Número de estaciones de monitoreo,Sucre,Ciudad,5,4.8
+Número de estaciones de monitoreo,La Paz,Ciudad,6,20.0
+Número de estaciones de monitoreo,El Alto,Ciudad,7,0.0
+Número de estaciones de monitoreo,Viacha,Ciudad,8,0.0
+Número de estaciones de monitoreo,Cochabamba,Ciudad,9,15.6
+Número de estaciones de monitoreo,Quillacollo,Ciudad,10,10.2
+Número de estaciones de monitoreo,Tiquipaya,Ciudad,11,7.4
+Número de estaciones de monitoreo,Colcapirhua,Ciudad,12,26.3
+Número de estaciones de monitoreo,Sacaba,Ciudad,13,5.8
+Número de estaciones de monitoreo,Oruro,Ciudad,14,6.3
+Número de estaciones de monitoreo,Potosí,Ciudad,15,0.7
+Número de estaciones de monitoreo,Tarija,Ciudad,16,23.5
+Número de estaciones de monitoreo,Yacuiba,Ciudad,17,14.6
+Número de estaciones de monitoreo,Santa Cruz de La Sierra,Ciudad,18,32.8
+Número de estaciones de monitoreo,La Guardia,Ciudad,19,25.7
+Número de estaciones de monitoreo,Warnes,Ciudad,20,39.9
+Número de estaciones de monitoreo,Montero,Ciudad,21,22.6
+Número de estaciones de monitoreo,Trinidad,Ciudad,22,20.3
+Número de estaciones de monitoreo,Riberalta,Ciudad,23,11.7
+Número de estaciones de monitoreo,Cobija,Ciudad,24,16.2
+Número de estaciones de monitoreo,Achocalla,Ciudad,25,0.0
+Número de estaciones de monitoreo,Sipe Sipe,Ciudad,26,0.0
+Número de estaciones de monitoreo,Vinto,Ciudad,27,4.9
+Número de estaciones de monitoreo,Cotoca,Ciudad,28,25.2
+Número de estaciones de monitoreo,El Torno,Ciudad,29,5.6
+Emisiones de CO2,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Emisiones de CO2,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Emisiones de CO2,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Emisiones de CO2,Total 20 ciudades,Ciudad,4,16.6
+Emisiones de CO2,Sucre,Ciudad,5,4.8
+Emisiones de CO2,La Paz,Ciudad,6,20.0
+Emisiones de CO2,El Alto,Ciudad,7,0.0
+Emisiones de CO2,Viacha,Ciudad,8,0.0
+Emisiones de CO2,Cochabamba,Ciudad,9,15.6
+Emisiones de CO2,Quillacollo,Ciudad,10,10.2
+Emisiones de CO2,Tiquipaya,Ciudad,11,7.4
+Emisiones de CO2,Colcapirhua,Ciudad,12,26.3
+Emisiones de CO2,Sacaba,Ciudad,13,5.8
+Emisiones de CO2,Oruro,Ciudad,14,6.3
+Emisiones de CO2,Potosí,Ciudad,15,0.7
+Emisiones de CO2,Tarija,Ciudad,16,23.5
+Emisiones de CO2,Yacuiba,Ciudad,17,14.6
+Emisiones de CO2,Santa Cruz de La Sierra,Ciudad,18,32.8
+Emisiones de CO2,La Guardia,Ciudad,19,25.7
+Emisiones de CO2,Warnes,Ciudad,20,39.9
+Emisiones de CO2,Montero,Ciudad,21,22.6
+Emisiones de CO2,Trinidad,Ciudad,22,20.3
+Emisiones de CO2,Riberalta,Ciudad,23,11.7
+Emisiones de CO2,Cobija,Ciudad,24,16.2
+Emisiones de CO2,Achocalla,Ciudad,25,0.0
+Emisiones de CO2,Sipe Sipe,Ciudad,26,0.0
+Emisiones de CO2,Vinto,Ciudad,27,4.9
+Emisiones de CO2,Cotoca,Ciudad,28,25.2
+Emisiones de CO2,El Torno,Ciudad,29,5.6
+Recolección de residuos sólidos,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Recolección de residuos sólidos,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Recolección de residuos sólidos,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Recolección de residuos sólidos,Total 20 ciudades,Ciudad,4,16.6
+Recolección de residuos sólidos,Sucre,Ciudad,5,4.8
+Recolección de residuos sólidos,La Paz,Ciudad,6,20.0
+Recolección de residuos sólidos,El Alto,Ciudad,7,0.0
+Recolección de residuos sólidos,Viacha,Ciudad,8,0.0
+Recolección de residuos sólidos,Cochabamba,Ciudad,9,15.6
+Recolección de residuos sólidos,Quillacollo,Ciudad,10,10.2
+Recolección de residuos sólidos,Tiquipaya,Ciudad,11,7.4
+Recolección de residuos sólidos,Colcapirhua,Ciudad,12,26.3
+Recolección de residuos sólidos,Sacaba,Ciudad,13,5.8
+Recolección de residuos sólidos,Oruro,Ciudad,14,6.3
+Recolección de residuos sólidos,Potosí,Ciudad,15,0.7
+Recolección de residuos sólidos,Tarija,Ciudad,16,23.5
+Recolección de residuos sólidos,Yacuiba,Ciudad,17,14.6
+Recolección de residuos sólidos,Santa Cruz de La Sierra,Ciudad,18,32.8
+Recolección de residuos sólidos,La Guardia,Ciudad,19,25.7
+Recolección de residuos sólidos,Warnes,Ciudad,20,39.9
+Recolección de residuos sólidos,Montero,Ciudad,21,22.6
+Recolección de residuos sólidos,Trinidad,Ciudad,22,20.3
+Recolección de residuos sólidos,Riberalta,Ciudad,23,11.7
+Recolección de residuos sólidos,Cobija,Ciudad,24,16.2
+Recolección de residuos sólidos,Achocalla,Ciudad,25,0.0
+Recolección de residuos sólidos,Sipe Sipe,Ciudad,26,0.0
+Recolección de residuos sólidos,Vinto,Ciudad,27,4.9
+Recolección de residuos sólidos,Cotoca,Ciudad,28,25.2
+Recolección de residuos sólidos,El Torno,Ciudad,29,5.6
+Tratamiento de aguas residuales,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Tratamiento de aguas residuales,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Tratamiento de aguas residuales,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Tratamiento de aguas residuales,Total 20 ciudades,Ciudad,4,16.6
+Tratamiento de aguas residuales,Sucre,Ciudad,5,4.8
+Tratamiento de aguas residuales,La Paz,Ciudad,6,20.0
+Tratamiento de aguas residuales,El Alto,Ciudad,7,0.0
+Tratamiento de aguas residuales,Viacha,Ciudad,8,0.0
+Tratamiento de aguas residuales,Cochabamba,Ciudad,9,15.6
+Tratamiento de aguas residuales,Quillacollo,Ciudad,10,10.2
+Tratamiento de aguas residuales,Tiquipaya,Ciudad,11,7.4
+Tratamiento de aguas residuales,Colcapirhua,Ciudad,12,26.3
+Tratamiento de aguas residuales,Sacaba,Ciudad,13,5.8
+Tratamiento de aguas residuales,Oruro,Ciudad,14,6.3
+Tratamiento de aguas residuales,Potosí,Ciudad,15,0.7
+Tratamiento de aguas residuales,Tarija,Ciudad,16,23.5
+Tratamiento de aguas residuales,Yacuiba,Ciudad,17,14.6
+Tratamiento de aguas residuales,Santa Cruz de La Sierra,Ciudad,18,32.8
+Tratamiento de aguas residuales,La Guardia,Ciudad,19,25.7
+Tratamiento de aguas residuales,Warnes,Ciudad,20,39.9
+Tratamiento de aguas residuales,Montero,Ciudad,21,22.6
+Tratamiento de aguas residuales,Trinidad,Ciudad,22,20.3
+Tratamiento de aguas residuales,Riberalta,Ciudad,23,11.7
+Tratamiento de aguas residuales,Cobija,Ciudad,24,16.2
+Tratamiento de aguas residuales,Achocalla,Ciudad,25,0.0
+Tratamiento de aguas residuales,Sipe Sipe,Ciudad,26,0.0
+Tratamiento de aguas residuales,Vinto,Ciudad,27,4.9
+Tratamiento de aguas residuales,Cotoca,Ciudad,28,25.2
+Tratamiento de aguas residuales,El Torno,Ciudad,29,5.6
+Proporción de residuos sólidos reciclados,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Proporción de residuos sólidos reciclados,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Proporción de residuos sólidos reciclados,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Proporción de residuos sólidos reciclados,Total 20 ciudades,Ciudad,4,16.6
+Proporción de residuos sólidos reciclados,Sucre,Ciudad,5,4.8
+Proporción de residuos sólidos reciclados,La Paz,Ciudad,6,20.0
+Proporción de residuos sólidos reciclados,El Alto,Ciudad,7,0.0
+Proporción de residuos sólidos reciclados,Viacha,Ciudad,8,0.0
+Proporción de residuos sólidos reciclados,Cochabamba,Ciudad,9,15.6
+Proporción de residuos sólidos reciclados,Quillacollo,Ciudad,10,10.2
+Proporción de residuos sólidos reciclados,Tiquipaya,Ciudad,11,7.4
+Proporción de residuos sólidos reciclados,Colcapirhua,Ciudad,12,26.3
+Proporción de residuos sólidos reciclados,Sacaba,Ciudad,13,5.8
+Proporción de residuos sólidos reciclados,Oruro,Ciudad,14,6.3
+Proporción de residuos sólidos reciclados,Potosí,Ciudad,15,0.7
+Proporción de residuos sólidos reciclados,Tarija,Ciudad,16,23.5
+Proporción de residuos sólidos reciclados,Yacuiba,Ciudad,17,14.6
+Proporción de residuos sólidos reciclados,Santa Cruz de La Sierra,Ciudad,18,32.8
+Proporción de residuos sólidos reciclados,La Guardia,Ciudad,19,25.7
+Proporción de residuos sólidos reciclados,Warnes,Ciudad,20,39.9
+Proporción de residuos sólidos reciclados,Montero,Ciudad,21,22.6
+Proporción de residuos sólidos reciclados,Trinidad,Ciudad,22,20.3
+Proporción de residuos sólidos reciclados,Riberalta,Ciudad,23,11.7
+Proporción de residuos sólidos reciclados,Cobija,Ciudad,24,16.2
+Proporción de residuos sólidos reciclados,Achocalla,Ciudad,25,0.0
+Proporción de residuos sólidos reciclados,Sipe Sipe,Ciudad,26,0.0
+Proporción de residuos sólidos reciclados,Vinto,Ciudad,27,4.9
+Proporción de residuos sólidos reciclados,Cotoca,Ciudad,28,25.2
+Proporción de residuos sólidos reciclados,El Torno,Ciudad,29,5.6
+Proporción de energías renovables,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Proporción de energías renovables,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Proporción de energías renovables,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Proporción de energías renovables,Total 20 ciudades,Ciudad,4,16.6
+Proporción de energías renovables,Sucre,Ciudad,5,4.8
+Proporción de energías renovables,La Paz,Ciudad,6,20.0
+Proporción de energías renovables,El Alto,Ciudad,7,0.0
+Proporción de energías renovables,Viacha,Ciudad,8,0.0
+Proporción de energías renovables,Cochabamba,Ciudad,9,15.6
+Proporción de energías renovables,Quillacollo,Ciudad,10,10.2
+Proporción de energías renovables,Tiquipaya,Ciudad,11,7.4
+Proporción de energías renovables,Colcapirhua,Ciudad,12,26.3
+Proporción de energías renovables,Sacaba,Ciudad,13,5.8
+Proporción de energías renovables,Oruro,Ciudad,14,6.3
+Proporción de energías renovables,Potosí,Ciudad,15,0.7
+Proporción de energías renovables,Tarija,Ciudad,16,23.5
+Proporción de energías renovables,Yacuiba,Ciudad,17,14.6
+Proporción de energías renovables,Santa Cruz de La Sierra,Ciudad,18,32.8
+Proporción de energías renovables,La Guardia,Ciudad,19,25.7
+Proporción de energías renovables,Warnes,Ciudad,20,39.9
+Proporción de energías renovables,Montero,Ciudad,21,22.6
+Proporción de energías renovables,Trinidad,Ciudad,22,20.3
+Proporción de energías renovables,Riberalta,Ciudad,23,11.7
+Proporción de energías renovables,Cobija,Ciudad,24,16.2
+Proporción de energías renovables,Achocalla,Ciudad,25,0.0
+Proporción de energías renovables,Sipe Sipe,Ciudad,26,0.0
+Proporción de energías renovables,Vinto,Ciudad,27,4.9
+Proporción de energías renovables,Cotoca,Ciudad,28,25.2
+Proporción de energías renovables,El Torno,Ciudad,29,5.6
+Acceso a la información pública,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Acceso a la información pública,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Acceso a la información pública,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Acceso a la información pública,Total 20 ciudades,Ciudad,4,16.6
+Acceso a la información pública,Sucre,Ciudad,5,4.8
+Acceso a la información pública,La Paz,Ciudad,6,20.0
+Acceso a la información pública,El Alto,Ciudad,7,0.0
+Acceso a la información pública,Viacha,Ciudad,8,0.0
+Acceso a la información pública,Cochabamba,Ciudad,9,15.6
+Acceso a la información pública,Quillacollo,Ciudad,10,10.2
+Acceso a la información pública,Tiquipaya,Ciudad,11,7.4
+Acceso a la información pública,Colcapirhua,Ciudad,12,26.3
+Acceso a la información pública,Sacaba,Ciudad,13,5.8
+Acceso a la información pública,Oruro,Ciudad,14,6.3
+Acceso a la información pública,Potosí,Ciudad,15,0.7
+Acceso a la información pública,Tarija,Ciudad,16,23.5
+Acceso a la información pública,Yacuiba,Ciudad,17,14.6
+Acceso a la información pública,Santa Cruz de La Sierra,Ciudad,18,32.8
+Acceso a la información pública,La Guardia,Ciudad,19,25.7
+Acceso a la información pública,Warnes,Ciudad,20,39.9
+Acceso a la información pública,Montero,Ciudad,21,22.6
+Acceso a la información pública,Trinidad,Ciudad,22,20.3
+Acceso a la información pública,Riberalta,Ciudad,23,11.7
+Acceso a la información pública,Cobija,Ciudad,24,16.2
+Acceso a la información pública,Achocalla,Ciudad,25,0.0
+Acceso a la información pública,Sipe Sipe,Ciudad,26,0.0
+Acceso a la información pública,Vinto,Ciudad,27,4.9
+Acceso a la información pública,Cotoca,Ciudad,28,25.2
+Acceso a la información pública,El Torno,Ciudad,29,5.6
+Participación electoral,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Participación electoral,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Participación electoral,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Participación electoral,Total 20 ciudades,Ciudad,4,16.6
+Participación electoral,Sucre,Ciudad,5,4.8
+Participación electoral,La Paz,Ciudad,6,20.0
+Participación electoral,El Alto,Ciudad,7,0.0
+Participación electoral,Viacha,Ciudad,8,0.0
+Participación electoral,Cochabamba,Ciudad,9,15.6
+Participación electoral,Quillacollo,Ciudad,10,10.2
+Participación electoral,Tiquipaya,Ciudad,11,7.4
+Participación electoral,Colcapirhua,Ciudad,12,26.3
+Participación electoral,Sacaba,Ciudad,13,5.8
+Participación electoral,Oruro,Ciudad,14,6.3
+Participación electoral,Potosí,Ciudad,15,0.7
+Participación electoral,Tarija,Ciudad,16,23.5
+Participación electoral,Yacuiba,Ciudad,17,14.6
+Participación electoral,Santa Cruz de La Sierra,Ciudad,18,32.8
+Participación electoral,La Guardia,Ciudad,19,25.7
+Participación electoral,Warnes,Ciudad,20,39.9
+Participación electoral,Montero,Ciudad,21,22.6
+Participación electoral,Trinidad,Ciudad,22,20.3
+Participación electoral,Riberalta,Ciudad,23,11.7
+Participación electoral,Cobija,Ciudad,24,16.2
+Participación electoral,Achocalla,Ciudad,25,0.0
+Participación electoral,Sipe Sipe,Ciudad,26,0.0
+Participación electoral,Vinto,Ciudad,27,4.9
+Participación electoral,Cotoca,Ciudad,28,25.2
+Participación electoral,El Torno,Ciudad,29,5.6
+Recaudación de ingresos propios,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Recaudación de ingresos propios,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Recaudación de ingresos propios,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Recaudación de ingresos propios,Total 20 ciudades,Ciudad,4,16.6
+Recaudación de ingresos propios,Sucre,Ciudad,5,4.8
+Recaudación de ingresos propios,La Paz,Ciudad,6,20.0
+Recaudación de ingresos propios,El Alto,Ciudad,7,0.0
+Recaudación de ingresos propios,Viacha,Ciudad,8,0.0
+Recaudación de ingresos propios,Cochabamba,Ciudad,9,15.6
+Recaudación de ingresos propios,Quillacollo,Ciudad,10,10.2
+Recaudación de ingresos propios,Tiquipaya,Ciudad,11,7.4
+Recaudación de ingresos propios,Colcapirhua,Ciudad,12,26.3
+Recaudación de ingresos propios,Sacaba,Ciudad,13,5.8
+Recaudación de ingresos propios,Oruro,Ciudad,14,6.3
+Recaudación de ingresos propios,Potosí,Ciudad,15,0.7
+Recaudación de ingresos propios,Tarija,Ciudad,16,23.5
+Recaudación de ingresos propios,Yacuiba,Ciudad,17,14.6
+Recaudación de ingresos propios,Santa Cruz de La Sierra,Ciudad,18,32.8
+Recaudación de ingresos propios,La Guardia,Ciudad,19,25.7
+Recaudación de ingresos propios,Warnes,Ciudad,20,39.9
+Recaudación de ingresos propios,Montero,Ciudad,21,22.6
+Recaudación de ingresos propios,Trinidad,Ciudad,22,20.3
+Recaudación de ingresos propios,Riberalta,Ciudad,23,11.7
+Recaudación de ingresos propios,Cobija,Ciudad,24,16.2
+Recaudación de ingresos propios,Achocalla,Ciudad,25,0.0
+Recaudación de ingresos propios,Sipe Sipe,Ciudad,26,0.0
+Recaudación de ingresos propios,Vinto,Ciudad,27,4.9
+Recaudación de ingresos propios,Cotoca,Ciudad,28,25.2
+Recaudación de ingresos propios,El Torno,Ciudad,29,5.6
+Deuda Subnacional,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Deuda Subnacional,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Deuda Subnacional,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Deuda Subnacional,Total 20 ciudades,Ciudad,4,16.6
+Deuda Subnacional,Sucre,Ciudad,5,4.8
+Deuda Subnacional,La Paz,Ciudad,6,20.0
+Deuda Subnacional,El Alto,Ciudad,7,0.0
+Deuda Subnacional,Viacha,Ciudad,8,0.0
+Deuda Subnacional,Cochabamba,Ciudad,9,15.6
+Deuda Subnacional,Quillacollo,Ciudad,10,10.2
+Deuda Subnacional,Tiquipaya,Ciudad,11,7.4
+Deuda Subnacional,Colcapirhua,Ciudad,12,26.3
+Deuda Subnacional,Sacaba,Ciudad,13,5.8
+Deuda Subnacional,Oruro,Ciudad,14,6.3
+Deuda Subnacional,Potosí,Ciudad,15,0.7
+Deuda Subnacional,Tarija,Ciudad,16,23.5
+Deuda Subnacional,Yacuiba,Ciudad,17,14.6
+Deuda Subnacional,Santa Cruz de La Sierra,Ciudad,18,32.8
+Deuda Subnacional,La Guardia,Ciudad,19,25.7
+Deuda Subnacional,Warnes,Ciudad,20,39.9
+Deuda Subnacional,Montero,Ciudad,21,22.6
+Deuda Subnacional,Trinidad,Ciudad,22,20.3
+Deuda Subnacional,Riberalta,Ciudad,23,11.7
+Deuda Subnacional,Cobija,Ciudad,24,16.2
+Deuda Subnacional,Achocalla,Ciudad,25,0.0
+Deuda Subnacional,Sipe Sipe,Ciudad,26,0.0
+Deuda Subnacional,Vinto,Ciudad,27,4.9
+Deuda Subnacional,Cotoca,Ciudad,28,25.2
+Deuda Subnacional,El Torno,Ciudad,29,5.6
+Eficiencia del gasto local,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Eficiencia del gasto local,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Eficiencia del gasto local,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Eficiencia del gasto local,Total 20 ciudades,Ciudad,4,16.6
+Eficiencia del gasto local,Sucre,Ciudad,5,4.8
+Eficiencia del gasto local,La Paz,Ciudad,6,20.0
+Eficiencia del gasto local,El Alto,Ciudad,7,0.0
+Eficiencia del gasto local,Viacha,Ciudad,8,0.0
+Eficiencia del gasto local,Cochabamba,Ciudad,9,15.6
+Eficiencia del gasto local,Quillacollo,Ciudad,10,10.2
+Eficiencia del gasto local,Tiquipaya,Ciudad,11,7.4
+Eficiencia del gasto local,Colcapirhua,Ciudad,12,26.3
+Eficiencia del gasto local,Sacaba,Ciudad,13,5.8
+Eficiencia del gasto local,Oruro,Ciudad,14,6.3
+Eficiencia del gasto local,Potosí,Ciudad,15,0.7
+Eficiencia del gasto local,Tarija,Ciudad,16,23.5
+Eficiencia del gasto local,Yacuiba,Ciudad,17,14.6
+Eficiencia del gasto local,Santa Cruz de La Sierra,Ciudad,18,32.8
+Eficiencia del gasto local,La Guardia,Ciudad,19,25.7
+Eficiencia del gasto local,Warnes,Ciudad,20,39.9
+Eficiencia del gasto local,Montero,Ciudad,21,22.6
+Eficiencia del gasto local,Trinidad,Ciudad,22,20.3
+Eficiencia del gasto local,Riberalta,Ciudad,23,11.7
+Eficiencia del gasto local,Cobija,Ciudad,24,16.2
+Eficiencia del gasto local,Achocalla,Ciudad,25,0.0
+Eficiencia del gasto local,Sipe Sipe,Ciudad,26,0.0
+Eficiencia del gasto local,Vinto,Ciudad,27,4.9
+Eficiencia del gasto local,Cotoca,Ciudad,28,25.2
+Eficiencia del gasto local,El Torno,Ciudad,29,5.6
+Eficiencia en el uso del suelo,Área Metropolitana de La Paz,Metropolitana,1,5.4
+Eficiencia en el uso del suelo,Área Metropolitana de Cochabamba,Metropolitana,2,12.2
+Eficiencia en el uso del suelo,Área Metropolitana de Santa Cruz,Metropolitana,3,31.4
+Eficiencia en el uso del suelo,Total 20 ciudades,Ciudad,4,16.6
+Eficiencia en el uso del suelo,Sucre,Ciudad,5,4.8
+Eficiencia en el uso del suelo,La Paz,Ciudad,6,20.0
+Eficiencia en el uso del suelo,El Alto,Ciudad,7,0.0
+Eficiencia en el uso del suelo,Viacha,Ciudad,8,0.0
+Eficiencia en el uso del suelo,Cochabamba,Ciudad,9,15.6
+Eficiencia en el uso del suelo,Quillacollo,Ciudad,10,10.2
+Eficiencia en el uso del suelo,Tiquipaya,Ciudad,11,7.4
+Eficiencia en el uso del suelo,Colcapirhua,Ciudad,12,26.3
+Eficiencia en el uso del suelo,Sacaba,Ciudad,13,5.8
+Eficiencia en el uso del suelo,Oruro,Ciudad,14,6.3
+Eficiencia en el uso del suelo,Potosí,Ciudad,15,0.7
+Eficiencia en el uso del suelo,Tarija,Ciudad,16,23.5
+Eficiencia en el uso del suelo,Yacuiba,Ciudad,17,14.6
+Eficiencia en el uso del suelo,Santa Cruz de La Sierra,Ciudad,18,32.8
+Eficiencia en el uso del suelo,La Guardia,Ciudad,19,25.7
+Eficiencia en el uso del suelo,Warnes,Ciudad,20,39.9
+Eficiencia en el uso del suelo,Montero,Ciudad,21,22.6
+Eficiencia en el uso del suelo,Trinidad,Ciudad,22,20.3
+Eficiencia en el uso del suelo,Riberalta,Ciudad,23,11.7
+Eficiencia en el uso del suelo,Cobija,Ciudad,24,16.2
+Eficiencia en el uso del suelo,Achocalla,Ciudad,25,0.0
+Eficiencia en el uso del suelo,Sipe Sipe,Ciudad,26,0.0
+Eficiencia en el uso del suelo,Vinto,Ciudad,27,4.9
+Eficiencia en el uso del suelo,Cotoca,Ciudad,28,25.2
+Eficiencia en el uso del suelo,El Torno,Ciudad,29,5.6
